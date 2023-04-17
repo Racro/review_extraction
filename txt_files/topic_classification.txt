@@ -1,0 +1,2331 @@
+adblock-plus-free-ad-bloc
+100
+-------------------------
+effective, makes browsing smoother than a vr6 motor.
+p, 
+-------------------------
+worked really great and made different sites load slightly faster
+p, load
+-------------------------
+i've only had this for a little while and i download a lot of items from websites that have ads for false download buttons and make it feel like i was defusing a bomb. i love it and no youtube or facebook ads!
+p, ads, false download buttons
+-------------------------
+it was great but recently stopped working. update maybe?
+n, stop work
+-------------------------
+best ad blocker out there right now no other completion insight hopefully they launch adblocker plus for the mobile chrome
+p, 
+-------------------------
+completely impressed. this app works at its best.
+p,
+-------------------------
+can not delete it or uninstall it
+
+permissions  options details warning:
+this extension failed to modify the response header "content-security-policy" of a network request because the modification conflicted with another extension (adblock plus).
+id: cfhdojbkjhnklbpkdaibdccddilifddb
+(this extension is managed and cannot be removed or disabled.)
+inspect views: background page
+n, csp, delete/uninstall, permissions
+-------------------------
+love it save my data and unwanted add
+p, ads, data
+-------------------------
+blocks even the nastiest pop-ups, but doesn't interfere with site interaction. even seems like it speeds up streaming by keeping all the side ads, videos and pop-ups from slowing down computer. awesome extension! i would pay for it.
+p, slow, popups
+-------------------------
+works good, but now let's youtube ads load now. please fix.
+n, ads
+-------------------------
+justin.tv does not play any videos with this extension installed. it used to work until yesterday. looks like justin.tv advertisements are blocked by adblock, can we remove justin.tv from the list.
+n, ads, list
+-------------------------
+easy to use, very user friendly. the only complaint to be had from me is the software sometimes times out before it can make a connection, causing the vpn to be shut down while running internet operations as you normally would. if you are not paying attention to the connection status every once in a while, you could be off vpn and not know it. but overall excellent vpn, i will continue to refer people to this product!
+p, vpn problems
+-------------------------
+it does everything asked of it plus some . awsome
+p, 
+-------------------------
+don't have much to say, it's awesome!
+p, 
+-------------------------
+working as expected, with out any hiccups...
+p, 
+-------------------------
+no longer works properly on all sites. especially youtube. used to be great, now it is pointless.
+n, not work
+-------------------------
+best thing ever made!! i cannot belive that i lived without adblock for so long - wish i could tell the hole world. congrats for this amazing software and thank you from the bottom of my heart! thank you!!!!
+p, 
+-------------------------
+just wanna say thank you for the creator of this ad blocker
+p, 
+-------------------------
+i've been using adblock plus for years.  suddenly my chrome browsers just hang and won't load anything.  have to kill and restart it constantly.  disabled abp and it works fine now. 
+
+please fix fast!!!
+n, browser hang
+-------------------------
+i have been using this extension for years and it works.
+p, 
+-------------------------
+doesn't seem to be working anymore.
+n, 
+-------------------------
+used to love adblock, it was perfect. since a couple of weeks (as far as i know) they are accepting payment from google to allow (ie not block)  "ad related to" at the top of google search results. there is no indication whatsoever where sponsored search results end and genuine search results begin. my biggest gripe in months and a waste of good time, since sponsored links usually aren't what i am looking for.
+
+if an adblock alternative stops bye i will start using it.
+n, sponsored ads in search results, google
+-------------------------
+great ad blocker that is not selling my information
+p, sell information
+-------------------------
+excellent, does what it is meant to and does it amazingly well.
+
+update: not as effective as it used to be anymore. i see several adds now.
+
+update 2: once again back on track, solid 5 star app. can't imagine surfing without it!
+p, 
+-------------------------
+best ad blocker. totally recommend it.
+p, 
+-------------------------
+i just installed now, lets see how much it helps from annoying ads.
+p, ads
+-------------------------
+so now they added adds, so ublock and umatrix have a bigger purpose now. greed gg
+n, ads
+-------------------------
+looks like they have removed the incognito mode support. hated that part.
+n, support, compatibility
+-------------------------
+it's a very good extension, especially if you're easily annoyed by ads and/or want to avoid getting adware on your device. the only problem is that some ads these days are getting past adblock plus, so i'm gonna rate it a 4/5 for now.
+n, ads
+-------------------------
+i think this plugin is the best ad blocker!
+p, 
+-------------------------
+great software for blocking adverts i give it a 10/10 even though it may not block twitch adverts (because amazon is greedy) it has blocked over 5000 ads in the last 2 weeks
+p, ads
+-------------------------
+not working at all since oct. 25
+n, work
+-------------------------
+my anti virus tech referred me to this app.  thanks, tech guy!!!
+p, 
+-------------------------
+just wanted to say... wow. this is like time-travelling back 10 years when ads were here and there. unlike today where you have to work through an obsticle course just to read something. sheesh!
+p, 
+-------------------------
+it doesn't block nearly as many ads as adblock did, but this one works with rockmelt :/
+n, ads
+-------------------------
+why after update the chrome browser to version 32.0.1700.107 m the extension is no effect to  the ads
+n, update, ads
+-------------------------
+been using abp for a while, but seems to be blocking less ads over time.
+n, ads
+-------------------------
+it always reverts to basic and lets ad's through. i find i have to re-install it over and over to get it to work. and thats only for a short time.
+n, 
+-------------------------
+thank you for taking the time to write us this review, arnav!
+p, 
+-------------------------
+it work perfect for me, it block many ads i don't want to see and it is free.
+p, ads, block
+-------------------------
+but why in my chrome still have and advert?
+n, 
+-------------------------
+i am very grateful for your extension and i hope that i will somehow encourage your work in the future
+p, 
+-------------------------
+hi abdul a! 
+
+thanks for letting us know! are you still having this issue? if so, please send us an email at support@adblockplus.org so that we can troubleshoot with you. we look forward to your follow up! 
+
+thanks
+shannon 
+abp support team
+n, 
+-------------------------
+اكثر من رائع, اباد الاعلانات المزعجه اباده كامله
+delete
+-------------------------
+sidebar ads and youtube video ads are coming through all the time now. 
+
+what is the point of this extension if it cannot block any advertising.
+n, ads
+-------------------------
+i love it.  thanks so much for this app.
+p, 
+-------------------------
+we're glad to hear you like adblock plus, dixit! if you need anything or have any suggestions for us, be sure to stop by our forums and say hi. we are always happy to help :) https://adblockplus.org/forum/index.php
+p, 
+-------------------------
+does its job well. to make sure your blocking out all ads go to settings and make sure "allow acceptable ads" is off.
+p, settings
+-------------------------
+there are a lot of sites that wont let you browse with this enabled, therefore defeating the point of having it installed
+n, break
+-------------------------
+wow thanks for supporting us for so long, dipen! if you need anything be sure to stop by our forums and say hi. we are always happy to help :) https://adblockplus.org/forum/index.php
+p, 
+-------------------------
+it does it's job and does it well. i do have some issues with sites which will block access if this is on, but that isn't an issue that can be fixed by this extension. and while it does miss a few ads every once in a while, it has been reliable and makes browsing the internet much better.
+p, block
+-------------------------
+this is awesome i never had faster internet connection before nor getting ad-wear on my laptop thanks so much
+p, fast
+-------------------------
+what is the best?
+
+"if you're not part of the solution, you're part of the problem."
+p, 
+-------------------------
+meh it actully removed all of my wooden seal ads but not the pop up ones tho
+n, popups
+-------------------------
+so tired of half of my facebook page being unwanted ads! by adding the quick toggle app, i can see them if i want to  very easily. however, i don't anticipate using it very much!
+n, ads
+-------------------------
+was working up until a few days ago. not working anymore so now its useless.
+n, work
+-------------------------
+how is taboola "non-intrusive"?
+
+oh, it's because they paid you. so because they gave you money, disgusting images of deformities, and partially naked celebrities appearing randomly isn't intrusive....
+
+if taboola isn't intrusive advertising, what is?
+n, ads, paid
+-------------------------
+wow .. can't believe this .. just installed this .. and no ads any more
+p, 
+-------------------------
+fantastic product!! removes the noise from the internet. keep up the great work!
+p, 
+-------------------------
+its awesum.. now i m free from unwanted adds.. !!
+p, 
+-------------------------
+i love it no more annoying ads or pop ups. yes!!!
+p, 
+-------------------------
+this is a fantastic app and i would highly recommend it to anyone.
+p, 
+-------------------------
+it's a good app. but after few month it stop work..so i m a little unsatisfied with this app.
+n, stop
+-------------------------
+don't know what happened but it was working before and now i'm getting bombarded by ads galore. please fix or update!!
+n, work
+-------------------------
+the best adblock extension on the web!
+p, 
+-------------------------
+gets one start until it's fixed. ads are not blocked. switching back to the other adblock.
+n, block
+-------------------------
+your review has nothing to do with the ad blocker. you're just screwing around about your guilty feeling and giving the extension dislike for that. just don't use it if you feel that way. learn how to write reviews about the actual thing you're reviewing instead of giving you're helpless feeling that don't relate to the quality of the product. 
+
+"does what it says it does."
+
+well, why not 5? the rest was just on your end. you said nothing else about the ad blocker itself.
+n, 
+-------------------------
+this extension stopped working a few days ago
+n, work
+-------------------------
+i am always having to add custom filters. the lists are obviously not being updated.
+n, filters, add
+-------------------------
+it's a very good extension and it blocks most of the ads on the web. i've seen barely any lately. but the problem is, it constantly keeps crashing on me.
+n, crash, break
+-------------------------
+love it more than any other ad block extension. much faster too, and doesn't slow down browsing. great to have!
+p, fast
+-------------------------
+it is literally impossible to open the minecraft wiki on this computer without the aid of this extension. they use waaay too many animated ads.
+p, ads
+-------------------------
+that's a shame, shikabane, but we'd like to help you out! if you head over to our forum (https://adblockplus.org/forum/) and give us some more information about how it's not working, then we'll be able to help you find a solution :d
+n, 
+-------------------------
+amazing!! onloy problem is that ads are starting to notice that its installed like itv :(
+n, learning
+-------------------------
+amazing extension to have. i am so glad this was referred to me. i have since donated to show my appreciation.
+p, 
+-------------------------
+i4ll give a buck love thanks
+p, 
+-------------------------
+i always loved those adblocking apps such as thing one that is free and no scamming intended cause those others that need to have a premium license are all scam because i have experiences of it.!!!
+p, 
+-------------------------
+been a longtime user of adblock plus and its element hiding helper, but especially over the past couple of years it has become pretty useless.
+
+the reason? site developers are more savvy and, whereas before if i chose an element in the html and blocked it, well now, developers run php/javascripts that rotate or substitute content within that <div> or element, so the adblock works only for the moment you are on that page. if you reload the page or come back to it, boom, a new ad is there and a new element has taken its place.
+
+meaning that advertisers are more sophisticated than the adblock developers. seems to me adblock had a good thing but then just decided to let it ride without keeping up-to-date with what advertisers (many of them lowlife advertisers) would come up with to try to get around the block.
+
+adblock is now old news. i'm looking for something better, one that will not be outfoxed by php or javascripts that rotate ad content on every page load and which are impossible to isolate and block using adblock's filters -- even ones that i custom-write.
+n, 
+-------------------------
+blocks all adsblocks all adsblocks all adsblocks all adsblocks all adsblocks all adsblocks all adsblocks all ads
+p, 
+-------------------------
+this has improved my web experience so much.
+p, 
+-------------------------
+really helpful, i'm really working in a peace of mind environment now using chrome.
+
+thanks developer.
+p, 
+-------------------------
+has increased the speed of my internet by so much without all the annoying ads popping up and it makes it so much easier to watch videos without the annoying ads showing up and having to wait
+p, 
+-------------------------
+it stop working after i update chrome to ver 31.
+n, 
+-------------------------
+simple install. unobtrusive. works great. 
+
+this is a very powerful, no-frills advertising blocker.
+p, 
+-------------------------
+finally i can have a clean browsing experience. thank you adblock plus!
+p,
+-------------------------
+excellent app works good with lot of unexpected adds. 
+thank you for this
+p, 
+-------------------------
+so much better when trying to catch up on youtube videos. i've noticed that it even works with pandora :d awesome <3
+p, 
+-------------------------
+awesome works very good
+ive used this for a month now and its blocked about 2,000 adds from crunchyrool and youtube i think every laptop/desktop should have abp
+p, 
+-------------------------
+i have no more annoying ads on youtube anymore :)
+p, 
+-------------------------
+hasn't blocked a single youtube video ad. not one. who is this actually working for? it says it doesn't block "unobtrusive" ads.. come on, all ads are obtrusive unless i don't see them.
+n, 
+-------------------------
+has been helpful more than a few times. thanx guys.
+p, 
+-------------------------
+works great on the pages i visit. i rarely (and i mean rarely) get a pop up ad.
+p, 
+-------------------------
+had to remove it. stopped working and i can not enable it. on to the next ad-blocker. 
+
+yes i'd rather struggle finding ad-blockers then deal with ads.
+n, 
+-------------------------
+blocked by av due to malware. browser redirects to lazada, etc..
+n, malware
+-------------------------
+quick and easy to install. blocked well over 160,000 adverts in total so far. extremely good.
+p, 
+-------------------------
+it isn't good. till now it's the best
+p, 
+-------------------------
+works fine but sometimes it doesn't block adds when im on chrome (btw as i write this review i have adds for some reason)
+n, ads, compatibility
+-------------------------
+been working marvellously for a year...recently (2 weeks ago?) ads started showing up...something definitely broke with an update. i need to go manually update the list everyday for the ads to not show up. hope it will be fixed soon.
+n, 
+-------------------------
+i can see ads even with acceptable ads viewing unchecked... useless.
+n, ads
+-------------------------
+if i don't talk about pop up ads. its good
+n, popups
+-------------------------
+--------------------------------------------------
+ublock-origin
+100
+-------------------------
+uninstalling chrome and removing all related data and reinstalling chrome and then the ublock origin resolved the problem but it's a shame i've lost all my settings and history.
+n, uninstall, data, history
+-------------------------
+i noticed same thing with it recently and took a little bit to figure it out that what was causing it. seems since last update i think has caused the issue we are having.
+n, break
+-------------------------
+sorted thanks. speedy fix would add another 5 stars for response time.
+p, fix
+-------------------------
+been using this ad block for years and it's the best. recently having issues with twitch tv though :(
+n, break
+-------------------------
+my browser are auto start it bug me when i play online game,hope it work
+n, work
+-------------------------
+you have/had a malware extension in chrome/another explorer. run malwarebytes and adwcleaner in that order, after that reinstall chrome and you will be able to install any kind of adblock.
+p, malware
+-------------------------
+nevermind. apparently one has to manually pin it to the bar ... it doesn't happen automatically like it did with firefox. (inconsistency ... *sigh*)
+n, manual, compatibility
+-------------------------
+is there any way to let ublock origin for chrome handle this setting like you can disable it in firefox? relevant info on this: http://superuser.com/questions/639084/malicious-confirm-navigation-dialogs
+n, compatibility
+-------------------------
+it is the best. open source and with advanced user mode, you can block scripts and other trackers. plus it has a nice list of extra filters to choose from. way better than abp, which whitelists many ads from big companies, like google and microsoft
+p, block, track, filter
+-------------------------
+hey guys can i use this just to visualy disable ads but i dont want for them not to register at all since i want to support everyone on youtube
+p, 
+-------------------------
+what's this trick? i've started had issues with youtube ads and i'm guessing it's similar.
+n, block, work
+-------------------------
+i don't know what you mean by "pop-ups like 'google-analytic' one". can you make a screenshot to help me understand what you are referring to?
+n, popup
+-------------------------
+it used to work fine before but i doesn't block ads as of may 2021
+n, block, learning
+-------------------------
+does what it tells.and does it excellently so!
+p, work
+-------------------------
+bravo tv has updated their player, ads and the episode can no longer be played.
+n, work
+-------------------------
+this started happening recently with origin. it is now blocking images so certain images don't even show up on the webpage.
+n, break, block
+-------------------------
+it seems twitch has found a way around the adblocker. please update
+n, work
+-------------------------
+need an update on youtube ad blocking side.
+there are some ads in youtube that are not blocked.
+n, block
+-------------------------
+for a week now i keep getting errors like these: this extension failed to redirect a network request to "data:application/javascript;base64,..." because another extension (privacy badger) redirected it to "data:application/javascript;base64,..."
+n, redirect, error
+-------------------------
+i've been having trouble getting rid of one pesky ad that keeps coming back on yahoo mail. when i view my inbox there is an ad at the top that requires me to block the element every single time. it creates a blocking rule like ###yui_3_16_0_1_1433430560147_xxxx[href^="https://beap.gemini.yahoo.com/mbclk"] where xxxx is a random 4 digit number every time i reload the page. every other element on the inbox is also an element with a different random 3-4 digit number at the end. is there any way to block this ad?
+n, block, ads
+-------------------------
+yes it has not worked since july. i have not found a replacement, and am trying their development build as we speak. it started as white banners, and then changed to full on adds sometimes. even having youtube page ads that i couldn't right click and block. if you find a solution, post here please!
+n, work
+-------------------------
+absolutely amazing. i dont know how i was able to browse the internet before. all ads are blocked, and nothing else. even youtube and crunchyroll ads!
+p, work
+-------------------------
+ublock origin stopped me from clicking through to several tracking websites from email today and yesterday and showed me a great message about what was exactly wrong with the links and where they were sending me to. absolutely awesome, even better than adblock plus
+p, track, 
+-------------------------
+i started using this one after i found a random youtube video on how to block annoying  pink hair girl on a site which ad blocker is frowned upon i got this and now it never happended again(well i did have to add a filter to it),ad block sell out and, it not blocking add when i turn the program off, forced me to get this. also my computer feels faster with ublock origins
+p, block
+-------------------------
+will this adblocker be blocked in the future? i've heard that google is going to block adblocker.
+n, google
+-------------------------
+really great, best as blocker going
+p, 
+-------------------------
+without support to unblock specific youtube/ect. channels i won't be using this
+n, block
+-------------------------
+i had ublock but it just disappeared after a microsoft essentials update. now i keep getting a 'network error' message when i try to download it again. thanks
+n, update, error
+-------------------------
+possibly a recent update to ublock is causing issues with microsoft outlook being tagged as malware which when disabled temporarily causes an error when attempting to sign into the outlook account.
+n, update, malware
+-------------------------
+apparently an easylist issue with twitch tv reportedly using a new html5 player for some users: https://adblockplus.org/forum/viewtopic.php?f=2&t=39725
+n, easylist, break
+-------------------------
+might want to do an update, getting adds and the filters are not blocking them.
+n, filters
+-------------------------
+this has to be addresses on a case per case basis, there is no generic solution for this. you need to report such instances to easylist forum: https://forums.lanik.us/viewforum.php?f=62
+n, 
+-------------------------
+@raymond hill i completely forgot this setting (on my win7 machine i unchecked it ages ago and since then i came to consider it as off by default). chromium now closes all processes properly while chrome leaves some behind still. i didn't mean to high-jack your thread for general browser maintenance, but thank you for taking the time to answer. that's very cool of you.
+p, 
+-------------------------
+i've used lots of different adblockers through the years and honestly i can't tell the difference. all i ask is that it doesn't suck, and it doesn't so five stars!
+p, 
+-------------------------
+worked great for ages, then suddenly chrome wouldn't load pages and deactivating this extension was the only thing that fixed it.
+n, load, learning
+-------------------------
+i have been experiencing issues with ads served through http://rekoverr.com/ they link to scam and malware sites and i can't seem to be able to block them in any way.
+n, break, block
+-------------------------
+definitivamente el mejor, más eficiente, indetectable y útil, probé entre muchos otros, pero este me ha sorprendido, no me salió nunca un mensaje para rankear la app, la rankeo hago por lo eficiente que es. recomendadisimo
+delete
+-------------------------
+best in terms of speed and memory.
+options provided are as useful as adblock.
+i just wonder if they provide some anti adblocker scripts feature, or not. please tell me if it does or not.
+p, fast, speed, memory
+-------------------------
+this ad blocker is the best that i've ever used! :)
+p, 
+-------------------------
+на сайте gismeteo перестали правильно открываться страницы. (нельзя посмотреть погоду на 3 - 10дней, и тд.) пробовал в разных браузерах. при отключении ublock - всё нормально.
+delete
+-------------------------
+bit sus? ublock is the only non sus ad blocker. there's always a battle between the advertisers and ad blockers, but i guarantee you, ublock updates more frequent, and is more ontop of the ads than any other extension.
+p, 
+-------------------------
+it just keeps on saying checking when i try to redownload how do i fix this
+n, hang
+-------------------------
+used it for porn to watch with my nephew, very useful!
+p, 
+-------------------------
+there is a color-blind mode you can enable in the settings pane: https://github.com/gorhill/ublock/wiki/dashboard:-settings
+p, ui
+-------------------------
+after struggling with other blockers that just didn't cut it, my son had me install this and it worked perfectly right off the bat! thank you!!!!
+p, 
+-------------------------
+seems to have an issue with block yt ads nowadays. a white screen appears as an ad for most videos nowadays. there is a skip button but it seems that google is trying to fight against adblockers atm.
+n, block, google
+-------------------------
+best ad blocker on chrome so far!
+p, 
+-------------------------
+adblock and adblock plus stopped blocking a lot of video websites a while ago. this does the trick! :d
+p, 
+-------------------------
+use ublock para quitar la barra secure search que me salía cada vez que entraba a youtube y hoy volvió a aparecer aún con ublock activado. no se que hacer por favor necesito ayuda. gracias.
+delete
+-------------------------
+pandora and spotify (and likely other similar sites) are banning ad blockers and have a new policy in place to permanently ban people from the sites if they employ the new blockers to get around this issue - just a way to make us pay for their premium services
+n, policy, ban
+-------------------------
+i came home today to find my pc (win10 x64) wasn't asleep. i checked powercfg -requests and saw chrome reporting "webrtc has active peerconnections". looking in chrome://webrtc-internals/ the only entry is for: chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/background.html, { servers: [], icetransporttype: all, bundlepolicy: balanced, rtcpmuxpolicy: negotiate }, which is this extension. what is ublock doing to keep webrtc hung up and thus prevent my pc from sleeping? i took a dump of the webrtc internals page if you'd like it for any other info.
+n, webrtc, break
+-------------------------
+it is a strong blocker, but it doesn't open a lot of pages you want opened either. so... kind of sucks.
+n, break
+-------------------------
+i just uninstalled and reinstalled it and the problem seems gone
+n, learning, reinstall
+-------------------------
+i agree. it appears ublocko development has been taken over by those from abp, meaning more google ads. a shame and time to look for a replacement. i wouldn't mind if the extension had an option for each site to allow google ads.
+n, google, 
+-------------------------
+settings and other options isn't showing in kiwi browser what i'm getting is a half blank page
+n, break, compatibility
+-------------------------
+alberto - in chrome toolbar you should have an extensions icon (puzzle piece) next to user image (top right). when you click it, it expands the list of extensions installed and active. just click the greyed-out push-pin icon next to ublock origin and it will appear there. please note that extensions are disabled in incognito and icon is not there.
+p, 
+-------------------------
+try it in incognito tab with idm extensions enabled
+p,
+-------------------------
+i have used for a while now and i have loved it. blocks a ton of unwanted ads, not a virus/rat, and is amazing overall.
+p, malware, ads
+-------------------------
+if you visit https://www.sky.com/shop/mobile, it breaks the site, no phones are shown. i have tested adguard, abp and uo with default settings, up to date filters, and ub is the only one that breaks the site. thank you
+n, break
+-------------------------
+this is an effective, and efficient adblock extension, and is my personal favorite.
+p,
+-------------------------
+hi, with ublock enable i cant click on any article link of this site http://www.tiramillas.net/
+n, break
+-------------------------
+switched from abp due to ads
+p, ads
+-------------------------
+who came with alt+l as a shortcut for logger? i have to delete ublock because of that, i can't input "ł" on polish keyboard anymore.
+n, 
+-------------------------
+has been very effective until recently, when i've started getting ads loading behind my chrome browser. have deleted and reloaded to see if that will do the job (and added a supplementary, ublock origin extra from the same developer).
+n, learning, ads
+-------------------------
+this is the best ad-blocker extension, bar none.
+way more helpful and useful than any antivirus out there. really, all you need is this extension properly configured.
+p, malware, block
+-------------------------
+chrome for android does not support extensions. however, ublock origin works fine on firefox for android.
+p, compatibility
+-------------------------
+it uses less ram in comparison to the previous ad blocker that i used.
+p, fast, slow
+-------------------------
+the extension should be auto inactive on goverment or education sites. for example you cannot see an add on gov.tr sites.
+n, default
+-------------------------
+you should prob use the offical google browser for it to work :)
+n, compatibility
+-------------------------
+for me too версия 63.0.3223.8 (официальная сборка), dev (64 бит)
+delete
+-------------------------
+best adblocker extension on the planet.  i`m using this for a long time, and really impressed with results. strongly recommended to anyone who wants to get rid of pesky ads :d
+p, 
+-------------------------
+since today i get a blank youtube screen and a skip ad button at the bottom left when i select certain videos. before this never happened, please update if possible thank you.
+n, break
+-------------------------
+here: http://arenabg.com/torrents/ ublock origin v0.9.6.0 slimjet browser portable 3.0.3.0 (chromium 40.0.2214.93) srware iron 35.0.1900.0 windows xp i will give more info (screenshots, settings, ...) but lets first see if you, in your chromium, see the same - ads are blocked but some (4) of "placeholders of blocked elements" are not hidden.
+n, block
+-------------------------
+good day. i have been using your adblocker for some time. what i also really liked is that i could watch tv on the internet on the website: nlziet.nl. so advertisements that you normally see on tv, that blocked ublock origin very well so that you could watch the entire broadcast without those annoying commercials. only recently he no longer blocks broadcasts, so you now have to wait and those annoying advertisements see more. they may have removed something in the broadcast, so that your ad blocker will no longer see advertisements. it still works well on youtube and other websites! hopefully you can make something for it so that it will be blocked again. i would like to hear from you. sincerely, stefan nieuwenhuijse
+n, break, block
+-------------------------
+you program works great on the cw's site, but they have found a way to block you any way you can get back around them?
+n, block
+-------------------------
+i have never used an extension as useful as this one. install and done. it works like a charm <3
+p, 
+-------------------------
+great ad blocker!.... many thanks  :-)
+p, 
+-------------------------
+except for facebook ads, it blocks all ads. must have extension
+n, ads
+-------------------------
+diğerlerine göre çok iyi çalışan bir adblocker.
+delete
+-------------------------
+just recently stopped working on twitch sadly
+n, learning
+-------------------------
+try if adding also "ublock origin websocket" fixes that: https://chrome.google.com/webstore/detail/ublock-origin-websocket/pgdnlhfefecpicbbihgmbmffkjpaplco (i don't use "twitch" nor know what it is (some tv site i think))
+p, fix
+-------------------------
+good adblocker, however, doesnt seem to work on twitch at the moment
+n, break
+-------------------------
+actually blocks things that are not ads etc. and forces me to turn it off in order to be able to use some features on some websites.
+n, block
+-------------------------
+perfect extension, it never has failed me, until now. i am pasting the output that i am getting on some websites, like in the chrome.google.com/webstore site and others: -!doctype html- -html id="ubo-popup-panel"- -head- -meta charset="utf-8"- -meta name="viewport" content="width=device-width, initial-scale=1"- -link rel="stylesheet" href="css/themes/default.css"- -link rel="stylesheet" href="css/common.css"- -link rel="stylesheet" href="css/fa-icons.css"- -link rel="stylesheet" href="css/popup-fenix.css"- -title data-i18n="extname"-/title- -/head- -body class="loading" data-more="a b c d"- -div id="panes"- -div id="main"- -div id="sticky"- -div id="stickytools"- -div class="rulesettools"- -span id="saverules" class="fa-icon" data-i18n-title="popuptipsaverules"-lock-/span- -span id="revertrules" class="fa-icon" data-i18n-title="popuptiprevertrules"-eraser-/span- -/div- -div id="switch" role="button" aria-label tabindex="0" title- -span class="fa-icon"-!-- power button taken from font awesome v4.7.0 by dave gandy. unlike other fa icons, the power button is inlined here so that we can use a clip-path in order to ensure that the stroke does not "bleed" outside the fill area. ---svg viewbox="0 0 1536 (etc, etc).....when i click the ublock origin symbol on that website. tried removing, then reinstalling with the same results. a bug, or has there been a change that has not been updated on my end?
+n, break, learning, reinstall
+-------------------------
+doesn't work, just shows a black screen until the ad is done playing then gives you a "skip ad" at the bottom right of the black screen.
+n, work
+-------------------------
+as others are saying, sites are crippled with extension enabled. sadly browsing without it for now.
+n, break
+-------------------------
+is there a method to whitelist specific youtube channels? without whitelist youtube as a whole
+p, whitelist
+-------------------------
+adblock for chrome (not plus) has the following options when i click its button: 1. pause adblock 2. remove ads on this site 3. create an exception for this site 4. disable adblock on domains of this site 5. show removable elements 6. reports ads on this site may i ask you to implement points 1-5? currently you just offer an option to disable ublock on a per-site basis. adblock on the other hand gives us easy options to block specific elements using a gui and disable it using wildcards and stuff. so i can block ads on www.domain.com, but can allow them on site.domain.com/user/* very useful.
+n, options, ui
+-------------------------
+i've used ublock for about a year now. it doesn't seem to be blocking ads on youtube any longer. any advice on how to fix this?
+n, block, learning
+-------------------------
+july 2017 and its still superb for me.
+p, 
+-------------------------
+one single click will allow you to disable the wholesale blocking of a site, temporarily or permanently. see: https://github.com/gorhill/ublock/wiki/strict-blocking disabling strict blocking will just prevent the root page from being blocked, ads/trackers will still be blocked once strict blocking is disabled for a site.
+p, block, tracker
+-------------------------
+type chrome://apps and right click youtube app - remove from chrome. the adblockers don't recognize youtube as a website cause it became an embedded app on chrome in a recent update.
+n, update, 
+-------------------------
+first, off this is a great extension, made even greater by the open source license. thank you for putting so much effort into this extension. i've done a bit of research, and it seems like amazon prime video ads come from the same server, so the normal method of blocking the ads probably won't work. is there any way to block the amazon prime video ads? i find it profoundly stupid that i have to pay a subscription in order to see ads in my tv shows. thanks!
+n, ads, block
+-------------------------
+block's most ad's except on twitch.tv where i get an ad every time
+n, ads, block
+-------------------------
+already works well and blocks ads/elements before page load (i.e, faster, more secure). keep up the great work and looking forward to completed product.
+p, load, block
+-------------------------
+certain website take action by embedding a pop-up command in javascript, or when you click on a link or a general mouse-click. have you investigated this to disable this behavior?
+n, popup
+-------------------------
+works better than adblock plus. the popups on dailymail.co.uk were getting really bad and ublock stopped all of them.
+p, popup
+-------------------------
+i appreciate the awesome work to make an efficient program for not for profit.
+p, 
+-------------------------
+i've been using it for years, and it has made my life better. i recommend it completely to anyone and everyone.
+p, 
+-------------------------
+don't fall for the imposters this is the best ad blocker you will ever need... i even removed my antivirus this is so efficient and useful.
+p, malware
+-------------------------
+--------------------------------------------------
+ghostery-–-privacy-ad-blo
+100
+-------------------------
+for what purpose do you need to collect authentication data such as passwords, security questions, and pins? if it is for creating a ghostery account, then that should be specified. the way it is currently written seems to indicate this is for all web traffic.
+n, data
+-------------------------
+honestly amazing, the best adblocker i have used on this site and also comes with even more anti-tracking features. keep it up!
+p, tracking
+-------------------------
+i really like and have used ghostery for years, but i am very concerned about the new "smart blocking" "feature" which i recommend that you turn off.
+why? because while ghostery's intent may have been to offer better functionality and speedier browsing for users through "artificl intelligence", the "smart blocking" feature appears to completely override all of your current settings in a way that is non-transparent and very hostile to privacy.
+evidence? visit lastpass.com with all trackers blocked and smart blocking turned on. check out the detailed view for a long list of advertising and analytics trackers automatically and quietly  "unblocked" - you will be shocked.
+n, feature, block
+-------------------------
+suite a remise a jour . j ai le pztit fantome qui est devenu noir et la case de deblocage blanch. mais j ai recarder il est toujour en fonction.
+delete
+-------------------------
+love it. i like that you see what each page was trying to do.
+p, 
+-------------------------
+what will do without you ! :)
+p, 
+-------------------------
+depuis plusieurs jours mon bonhomme est en noir alors que d'habitude il est en bleu et j'ai des cookis qui viennent s'incorporer a mon ecran pourriez vous m'indiquer ta marche a suivre merci
+delete
+-------------------------
+i loved it
+such a great app
+p, 
+-------------------------
+had to deactivate the extension because of the above problem. after deactivating there is no problem with the process anymore. please contact me, so i could provide further details.
+n, deactivate, disable
+-------------------------
+for what purpose do you need to collect authentication data such as passwords, security questions, and pins? if it is for creating a ghostery account, then that should be specified. the way it is currently written seems to indicate this is for all web traffic.
+n, data, 
+-------------------------
+ghostry blocks so many ads, pop-ups and unwanted scripts that load in background that now it saves huge amount of bandwidth. mostly when am on youtube, the autoplay of ads before you can skip it to actual video is saving almost 8-10gb of bandwidth every month! kudos to ghostery team
+p, speed, memory
+-------------------------
+1 - 'continue with google' does not work (tried only patreon) 2 - works on guest mode > suspect extention 3 - try disable extentions and 'continue with google' works after disabling ghostery
+n, disable, break, google
+-------------------------
+love it! have been using it for years.
+p, 
+-------------------------
+the reason why i wanna give it 5 stars is because it blocks youtube ads as-well, while most of the youtube ad blockers don't actually work. this app still doesn't really block all the website ads and would love to see that in the next update but honestly overall good work team. kudos. :)
+p, ads, block
+-------------------------
+it is good for blocking scripts but it creates problem with google dev tool. i can not inspect element using google dev tools when this is active. all tags are collapsed in the dev tool. i can not expand body tag. all tags are collapsed inside the body tag. so, i can not debug html and css in my local development environment. if i pause this extension or disable it, then everything works fine, i mean google dev tool works fine and i can inspect any html tags in the dev tool.
+
+please fix this.
+
+ps. i will give you 5 stars once this issue is fixed.
+n, google, break
+-------------------------
+i am so tired of everything i order suddenly popping up with special offers.  that is why i got this!
+p, 
+-------------------------
+awesome. use it whenever i need it i hate add pop ups and this is a great app for it. just like a auto cleaner but for the web lets u see all those trackers and u'll be surprised at how many it can block the biggest amount i have had is 16 anyone can beat the
+p, tracker, popup
+-------------------------
+this has been a staple in my arsenal against malware. but the recent version is preventing files from being uploaded and videos from working full screen. i have had to disable for now. it's a shame as it really has been working great until recently.
+n, work, version
+-------------------------
+excellent plugin. good to block unwanted ads. i loved it.
+p, 
+-------------------------
+i just started having the same problem, mine would shutdown after 5seconds sometimes. did you found any solution to this issue ?
+n, shutdown
+-------------------------
+je n'arrive pas à télécharger alors que je l'avais avant et disparu
+delete
+-------------------------
+very helpful...!
+congrats to all the ghostery team..big up!
+p, 
+-------------------------
+fantastic tracking blocker. i keep trying the foss alternatives -- privacy badger and disconnect -- but ghostery is just so much smoother and doesn't block nice things that i actually want. thanks!
+p, block
+-------------------------
+new update has made a huge difference! it's working now, thank you! :-) happy customer now, lol.
+p, update
+-------------------------
+google play music wont work with ghostery even if all tracker is enabled( playback doesn`t start). fix pls. 2 day before its was play ok. in fact may b its google prevent plaback i dont know
+n, learning, break, work
+-------------------------
+my ghostery icon in chrome is grey instead of blue and does not seem to be working. does this signal a configuration issue?
+n, work
+-------------------------
+when "enhanced anti-tracking" option is enabled, youtube doesn't save settings like theme or localization and drops it to default state each time you leave the site and then return back, even when 'trust site' option is checked. when "enhanced anti-tracking" option is turned off everything works fine and every setting is saved as expected.
+n, feature, default
+-------------------------
+would like to report an issue with the current version of ghostery for chrome where ghostery causes chrome's pop-up blocker to block all links opened in a new tab using middle click. disabling ghostery resolves the issue. this only started with a recent update to ghostery. using: ghostery v8.2.6 and chrome 71.0.3578.98 (official build) (64-bit) on windows 7. there are multiple reports of this issue. please see posts made on 2019-01-09 at https://bugs.chromium.org/p/chromium/issues/detail?id=305351 - where users have commented that removing ghostery resolves the issue.
+n, popup, update
+-------------------------
+great extension, simply and easily blocks trackers. like the pop-up that tells me what sites are tracking on a given page and lets me easily find out more information about those trackers! bonus for being multi-platform and multi-browser. if you value your privacy this really is a must-have extension.
+p, privacy, tracking
+-------------------------
+thanks for the kind words! happy browsing!
+p, 
+-------------------------
+i have tried and tested the vast majority of ad blockers, redirect removers and pop-up/pop under blockers available here in the chrome web store.
+
+this one of very few competent extensions which can reliably block redirects and pop-ups/popunders on adult content sites.
+
+you occasionaly need to trust a website because ghostery can be overly aggresive with its blocking, for this reason i can not give gjostery a full 5 star rating.
+n, break
+-------------------------
+hi, this was a bug that is now fixed that was not at the fault of ghostery. for our full response please reach out to us at support@ghostery.com with any questions, concerns, or feedback. happy browsing!
+p, 
+-------------------------
+i have ghostery running and have for a long time. recently, just about everything that opens in a new tab gets blocked by chrome as a pop up. even things that normally wouldn't trigger the pop up blocker. since it worked in incognito, i knew it was an extension. disabling ghostery fixes it. info: linux, version 67.0.3396.62 (official build) beta (64-bit), ghostery 8.2.5
+n, disable, popup, learning
+-------------------------
+ghostery prevents any of the json formatter/viewer chrome extensions from working properly, which i need for web development work.
+n, prevent, collusion
+-------------------------
+i only have this issue with chrome canary and blur. this extension failed to redirect a network request to due to blur yadda yadda. yet i have these two working in regular chrome and firefox with no issues.
+n, compatibility
+-------------------------
+thanks for the positive feedback! happy browsing!
+p, 
+-------------------------
+i really am stating to dislike how im getting pop up ads from this app to make me pay for their service.
+n, popup
+-------------------------
+i'd love that you would try to know me better, but i dislike that they tracks me!
+n, track
+-------------------------
+chrome no me deja utilizar mi pc porque no abro su navegador.quien puede hacer algo al respecto?
+delete
+-------------------------
+great, but it uses quite a bit of memory, please lower it.
+n, memory
+-------------------------
+je ne peut pas installer cette extension comme la plus part des autres personnes ici je souhaiterais qu'il soit résolu rapidement s'il vous plait
+delete
+-------------------------
+works great, very well thought of and executed
+p, 
+-------------------------
+this is the best thing to happen to  or on the net.  i love it.
+p, 
+-------------------------
+sexy. blocks most ads. some still get through and are not blockable (as in i will block them, but they will show up again after i refresh the page)
+n, block
+-------------------------
+should automatically add new cookies and other objects to the filter, instead you have to manually add them yourself.
+
+they have a number of bugs that are breaking the ability to view high profile websites.
+
+now it just auto disables everything on update instead of forcing you to manually add new trackers. i get that it wants to allow websites to function but this is dishonest. i don't care if it's open source, your designing default behavior to be disingenuous and counter intuitive. fix your product and stop making excuses about why you aren't communicating terrible functionality changes. that or stop making the terrible changes to begin with and you won't see as much backlash.
+n, break, update, 
+-------------------------
+it used to work, but now the last 2 weeks (since january 5, 2017), scrambles facebook comments, + won't let you "pause" ghostery. its now forcing you to make an account <- the antithesis of guarding privacy. i would give it a zero if i could as it completely doesn't work. tried to contact customer service but they do not reply.
+n, privacy, work, learning
+-------------------------
+a suggestion: site specific options because what may be useful on one site may be annoying on another.
+n, break, options
+-------------------------
+great add-on if you're the type who cares about your privacy
+p, privacy
+-------------------------
+been using this for quite some time and love it, works well with u block for total protection.
+been running both together with no problems, any site that wont load or run properly is not worth my time anyway
+p, 
+-------------------------
+since latest updates it is slowing down all my browsing.. version 8.0.8.1
+
+use to be good but now just slows down the pages loading to the point i have to turn it off and everything is back to normal..
+n, load, slow, learning, update
+-------------------------
+what a great app.  keep yourself informed about the companies that track you across the web.
+
+thanks ghostery this sits aside ad block as one of my must have add-ons.
+p, block
+-------------------------
+easy and simple, the fact they provide this for free is blessing
+p, 
+-------------------------
+i love this app. face it, you can't get anything perfectly right but if you follow the tutorial and try to learn from it, it's pretty useful. gj guys!!
+p, 
+-------------------------
+latest version is blocking facebook, youtube and google hangouts. seems to be blocking google api's and some facebook beacons that are needed. please fix. uninstalled until a fix is confirmed.
+n, block, break
+-------------------------
+apreto el boton de "agregar a chrome" y me dice que se produjo un error..
+delete
+-------------------------
+love ghostery, but the new update is causing me to not be able to click on certain links on some websites. i talked to my dev team at work and they are looking into it, but no idea what's going on at this point. i turn off ghostery and the links work, turn it on and i can't click certain things.
+n, break, update
+-------------------------
+love it!, i feel a whole lot better knowing that i will browser with out having to be paranoid. i like to say keep up the good work.
+p, 
+-------------------------
+i heard, i saw, i downloaded. i love it! so easy to configure and it works great. i have it on both google chrome and torch browsers. thank you!
+p, compatibility
+-------------------------
+is working very time , yessss goolllllllll
+p, 
+-------------------------
+ghostery have exposed everyone's email address in it's gdpr email notice.
+
+received an email from ghostery about it's compliance with gdpr. everyone's email address has been exposed in the to field instead of bcc being used to hide them.
+
+i am very upset at the ineptness on ghostery's part. i have lost all faith in your product.
+
+you fail on something as rudimentary as blind carbon copy (abbreviated bcc:) that allows the sender of a message to conceal the recipient.
+n, data, policy, gdpr
+-------------------------
+why does it automatically reinstall when the laptop is turned on ???
+n, automatic
+-------------------------
+it does not lie when it says it improves web speed. get it!
+p, speed
+-------------------------
+disqus comments - not working.
+click on 'play one time and refresh' does just page refresh, comments not shown, so i repeat it from 2 to 10 times to get effect.
+n, break
+-------------------------
+myipone4s3g.imei:012538003076523,serial:83101zy8a4s can't download,update.software,app,ios.newversion don't open safarifile,server.onmobilepone unlockmyhotmail can't work , newpasswordonicloud.can't update,download.app
+n, work
+-------------------------
+i can not sign in. despite the password being entered, a message asking for a password is displayed.
+n, break
+-------------------------
+my ghost has truned from blue to black and when i click on it it is blank. how do i fix this?
+n, error
+-------------------------
+when i middle-click a link to open it in a new tab, i get the "popup blocked" message in the address bar. this happens when ghostery is the only active extension, but doesn't happen when ghostery is deactivated.
+n, break, popup
+-------------------------
+i installed it and ran it in its default one-click setting. i tested it on some privacy sites like electronic frontier organization's panopticlick. it passed in "blocking tracking ads" and "stop trackers included in the so-called acceptable whitelist ads" but failed in "blocking invisible trackers" and in "unblock third parties that promise to honor do not track." 
+
+it didn't pass fingerprinting, but i am still looking for something that will pass that test.
+n, tracker, fingerprinting
+-------------------------
+works great. click settings then visit the options button to block everything. all doubleclick, google connect, beacons, widgets, all ad's,
+analytics, privacy, thousands of others. the only 4 i keep open are for audio/music.  a must have!  adblock 4 is great too if it's still around.  blocks all ads on youtube and other streaming video!  just like the old days before mega-data was a thing and then the ads came along for the ride.
+p, block
+-------------------------
+used to be great, but recently has started to break continued authentication for some sites (google, annoyingly, but also medium), and can't keep itself logged in either, so all my whitelists that are supposed to benefit sites i don't mind ads on become useless. as the technical ability has gone down, things like ghostery rewards have gone up, and i find the downsides in getting sites working are not worth the upsides. sorry ghostery, long time user uninstalling.
+n, learning, whitelist, break
+-------------------------
+a very good tool for helping one preserve a bit of privacy.  thank you.
+p, privacy
+-------------------------
+thanks for the positive review! happy browsing!
+p, 
+-------------------------
+with latest version browsing is impossible
+n, update, version
+-------------------------
+since the latest update ghostery has gimped my internet browsing capability. pages fail to load as "waiting on ghostery" displays at the bottom of my screen. youtube videos would fail to load, if the page would load at all. i appreciate what ghostery does but not at this expense. it's disabled now (which did fix the problem) and if you fix this issue i'll re-enable it.
+n, slow, hang
+-------------------------
+can't find any way to ad things when it misses to block certain elements. that's a giant flaw
+n, block, add
+-------------------------
+i see that the ghost is gray, which means that ads are not being blocked but the extension window will not show up when clicked. also, all options on the website are not working.
+n, break, work
+-------------------------
+klikasz na ikonę duszka prawym przyciskiem myszki i wybierasz: usuń z chrome. możesz też wejść w ustawienia chrome i tam w zakładce "rozszerzenia" kliknąć ikonę kosza przy nazwie ghostery
+delete
+-------------------------
+thumbs up
+working great 
+
+like it very much
+
+thank you
+p, 
+-------------------------
+there is a conflict when using ghostery with avast online security on chrome. this is a recent occurance with the recent avast program upgrade.
+n, break
+-------------------------
+"waiting to ghostery" has become a real problem. need to upgrade the backend because these load delays will cause everyone to jump to an alternative no matter how good the product works.
+n, slow, load, delay
+-------------------------
+je clic sur gratui sa ma met verification et apret sa me met network_failed
+delete
+-------------------------
+it does what it says i give it 5 stars
+
+also is this long lasting or is it a trial run.
+p, 
+-------------------------
+blocked recaptcha and it took me so long to figure out it was from this extension. couldn't find way to modify the script to unblock recaptcha. wasted hours on useless stuff
+n, captcha, break
+-------------------------
+i love ghostery but the the june 8, 2019 is crashing constantly. will go back to 5 stars when it is fixed!
+n, crash, update
+-------------------------
+best anonymity app i use couple with add block and you have some clean browsing.
+p, privacy, anonymity
+-------------------------
+gostery is wonderful.  not only does it stop ads, (the boxes for the ads are still there, but all of the content, pictures and words are gone!) but it helps me learn about those who would made money by violating my privacy.  and it does all this without slowing my system.  for me, this is a gift of the first magnitude!
+p, privacy
+-------------------------
+i love the extra information on google
+p, 
+-------------------------
+the latest version of this extension seems to leak memory and allocates up to 12g of virtual memory (chrome linux). this memory seems to be mostly unused, just allocated. it still affects system performance. i needed to disable it. i'm currently looking for a different solution instead of ghostery. it was once great but blocking has become intransparent (no clear overview of what is blocked and what isn't) and messes with some of the new gdpr cookie guidelines (preferences are always forgotten, i have to accept cookies each visit again).
+n, gdpr, policy, memory, learning
+-------------------------
+a must-have extension ... i really like it
+p, 
+-------------------------
+does what it claims to do. no issues. thanks for the great extension!
+p, 
+-------------------------
+the app is supposed to download on my devices soon, and did not install in my laptop browser. however, lo and behold the extension did a fine job in my chrome browser. please identify in header as mobile app.
+n, compatibility, browser
+-------------------------
+i have ghostery on my safari, imac, but would like to have ghostery on my google chrome that i'm using now? how and where? joycejoellie@shaw.ca
+n, compatibility
+-------------------------
+says internal server error when trying to create an account. oh well. was looking forward to using the extension :(
+n, break, error
+-------------------------
+cannot use on social sites that generally screw up if ghostery is functioning on those sites.  perhaps there's a trick to it, i just didn't dig too far.   for everything else it works great.
+n, break
+-------------------------
+ditto.  fortunately for me, i spend too much time on facebook anyway, so this is just another feather in ghostrey's hat, as far as i'm concerned.  
+p, 
+-------------------------
+there's a ton of people experiencing this same issue. middle clicking on a link previously opened a new tab (without issue). latest version of chrome. now, after a reboot, any middle click results in a "pop up blocked", rather than opening a new tab.
+n, popupm, version
+-------------------------
+easy to use, makes you realize how much you are tracked, and data mined. very worthwhile
+p, track
+-------------------------
+this and adblock plus are great together!
+p, 
+-------------------------
+another thing to consider also is if you are not signed into your gmail account it may not let you add it.
+n, break
+-------------------------
+great product, highly recommend for all users.
+p, 
+-------------------------
+--------------------------------------------------
+https-everywhere
+50
+-------------------------
+it slow down my browsing in any way it is useful and secure
+n, slow
+-------------------------
+even when i uninstalled this extension the custom rules still stay in place. had to reinstall it to fix the redirects.
+n, redirects, rules 
+-------------------------
+this extension so much feeling of security!!!
+p, 
+-------------------------
+hmmm....no edit button?
+
+corrections: ...should read '...so it displays warnings between https sites at least 3-6 times a day!!!! and...should read 'the handshaking going on....'
+p, ui
+-------------------------
+security by default should be a no brainer. until it is though this is a great step for the regular end user.
+p, default
+-------------------------
+corruption bug appears to have a workaround.  posted by anand bhat:
+
+for all those having issues with the latest version showing as corrupt, try these steps:
+
+1. install extension.
+2. once it shows "this extension may have been corrupted", go back to the chrome store and open up this extension's page (https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp).
+3. the top of the page will have this text -- "this item has been disabled in chrome. enable this item". click it.
+4. extension will get activated!
+
+the developers of this extension are aware of this and it is due to bug in chrome. more details can be found at https://github.com/efforg/https-everywhere/issues/5874#issuecomment-245493840
+n, corrupt
+-------------------------
+works great to push https prefix. need to turn it off sometimes to allow images.
+n, break
+-------------------------
+can't say i'm having the memory issue that others are (but if that is a concern then chrome itself is the worst browser you could have).
+
+my problem is...why is this not _forcing_ https on all sites that feature it?  i shouldn't have to edit ebay's url manually when i have this installed.  looking elsewhere
+n, manual, not work
+-------------------------
+the most recent update is crashing constantly in chrome. it's a great add-on, however with the recent crashes and slowdowns, i had to disable it. i will re-enable it once the crashes are fixed.
+n, update, crash
+-------------------------
+i can't find the extension? it says it added t chrome but can't find any where
+n, 
+-------------------------
+they removed the ability to add custom force https rules.
+
+*fixed/added back in latest update, thank you.
+p, update, custom
+-------------------------
+short answer no, sites that have https enabled do not always go to https by default. 
+
+longer answer. some sites allow port 80 (http - without tls/ssl) or port 443 (https - with tls/ssl). those sites will use port 80 unless the user types the https in the address. this tool redirects sites that have both bindings enabled to always use port 443.
+p, default
+-------------------------
+this should be a standard feature on all browsers, especially mobile browsers.
+n, compatibility
+-------------------------
+the extension is nice, but take a look at chrome's "task manager". this extension eats upto 300 megabytes (!) of memory. while other extension i use (much more complex ones) are staying way under 30 mb.
+n, memory
+-------------------------
+the goal is valiant and necessary but the implementation is bad. breaks on many video-related sites and doesn't give any clear indication of how or what to disable to get it working again.
+n, break, disable
+-------------------------
+does not make unsecure sites secure, just forces the use of https if the site has it as a option.
+n, unsecure
+-------------------------
+i've been using https everywhere for a while now and it works great, has never caused me a problem.
+p, work
+-------------------------
+great extension, and absolutely necessary. but for some reason chrome is disabling it??
+n, compatibility, disable
+-------------------------
+at the point it decides to block websites because it can't decode commercial resenders like akamai, it's past its usefulness to me.
+n, block
+-------------------------
+it makes videos lag test it 3 times its this extension only
+n, slow
+-------------------------
+cannot install with an error message "this extension may have been corrupted." i tried several times. chrome 53 on win 10.
+n, error, compatibility
+-------------------------
+causes all my downloads to freeze/crash (download failed - network error)
+n, crash
+-------------------------
+worked fine in win7 for years until this past week.  i unin/rein from chrome store several times - extension installs fine and 5 seconds later, chrome 54 disables it immediately with error msg in extensions list "repair" which does nothing.  unin/rein does nothing. extension is worthless in chrome 54 on win7.
+n, compatibility, break
+-------------------------
+first extension that i install on chrome and chromium!
+p, 
+-------------------------
+it breaks chrome on linux repeatedly. i tried installing and reinstalling, and it keeps breaking it after about 30 minutes of it being active. it just stops websites from loading, and posts the message of "waiting for https everywhere..." in the lower left.
+n, break
+-------------------------
+i just added to chrome but used extensively with tor and firefox.  top notch!
+p, compatibility
+-------------------------
+it does what it has to do.
+p, 
+-------------------------
+a must have as a no-brainer to keep you and your data/privacy secrure wherever you go.
+p, privacy, secure
+-------------------------
+sometimes you can't even block unencrypted or else the website gets blocked, there is nothing that tells you that it is making a website "https://", it didn't even make a single site "https://" for me
+n, block, break
+-------------------------
+brilliant idea and thank you for building it
+
+i now have problems with flash videos on news websites (bbc etc.)
+confirmed it is this extension by disabling/enabling all my extensions one at a time - this was the one that caused me the problem
+
+would be handy to be able to prevent it running on some websites to help get around this problem
+n, break
+-------------------------
+new user. so far seems good after just a couple of days.
+p, 
+-------------------------
+this shouldn't even need to be an extension. gotta love the eff...
+p, 
+-------------------------
+great! tries it's best to give you an https secure connection to all sites. if it can't, it will search for an https version of the site (always made by the same person) and redirects you there.
+p, secure
+-------------------------
+that's not how the "s" technology works. however, you can probably just set up a redirect rule on your home router to do this.
+n, work, alternative
+-------------------------
+many people don't even understand what https is and how it works. so, they are giving it poor scores. however the extension does everything as expected and does it very well too.
+p, work
+-------------------------
+it keeps telling me that the file is corrupted no matter what i do i've tried everything i know and then some to fix it but can't. the one week it worked it was great and i loved it.
+n, work
+-------------------------
+really helpful. everyone must have this extension.
+p, 
+-------------------------
+can you please provide more information on your review? saying "it doesn't work please repair that" doesn't describe any problems.
+n, 
+-------------------------
+suggest optionally scanned the page by virustotal before going into http.
+n, 
+-------------------------
+no i tested it out and it said unsecrue
+n, secure
+-------------------------
+this really did not work for me. i think it only works for some people
+n, work
+-------------------------
+another step in security on the web - if there is a secure entry, use it.  i love this app
+p, secure
+-------------------------
+is a sorely needed extension, but no option for exceptions.  this breaks amazon instant video playback of some drm content, for many people [and was not easy to discover].  because the problem only occurs for some drm content, it can be very difficult to discover, for those unfamiliar with this issue, and you can spend an enormous amount of time investigating the 'more common' causes of those playback problems.
+n, whitelist, exceptions
+-------------------------
+where in the world would we be out it !!
+p, 
+-------------------------
+works exactly as intended. no issues with it.
+p, work
+-------------------------
+while this is no longer needed as of chrome 94, i've used this for years and want to show my appreciation. thank you your service. o7
+p, 
+-------------------------
+a must have as a no-brainer to keep you and your data/privacy secrure wherever you go.
+p, privacy
+-------------------------
+this extension is very secure and helpful.
+p, secure
+-------------------------
+i think everyone should know about this!!
+p, 
+-------------------------
+do not install this. it will slow down your browsing experience. it installs additional software without your consent. complete garbage. stay far away from this crap.
+n, slow
+-------------------------
+--------------------------------------------------
+disconnect
+50
+-------------------------
+i really like the extension but i would add a warning that this causes silverlight to crash at the end of programs on netflix.  if you add netflix to the whitelist then that resolves the issue.
+hope that helps.
+p, whitelist
+-------------------------
+it is a great application but there are a lot of issues with linkedin
+n, break
+-------------------------
+i want the option to disable this in some sites.
+n, disable
+-------------------------
+must have in this day and age. why give away your information for free.
+p, information, data
+-------------------------
+extension seemed to be working well for the few weeks i used it.  now after several requests for money and my not sending any the extension is not working.  it is enabled but no longer doing what it's suppose to do and had been doing.  i have now disabled it and will remove it completely.  disconnect should find another way for us to support their free service like pcclassesonline does.  they don't ask us for money they ask for other ways in which we can support them.  good-bye disconnect... and yes i do clean my cache regularly.  if you want to keep customers it would do you well to fix that issue you're having as stated two days ago by casey oppenheim.  thank you.
+n, not work, remove, request for money
+-------------------------
+wish it had a dedicated settings page. either something like adguard or adblock plus. i really just like using this for its diagram, however it is impossible to disable the extension blocking feature globally and seems to only work site by site. that way one could view the "light beam" spider web of connections and seem how other extensions are working.
+n, ui, disable
+-------------------------
+whether you have adblock or abp or not, this is the perfect extension to further enhance the level of privacy you have online.
+
+get it now. you won't regret it.
+p, privacy
+-------------------------
+daz hub, thanks for the discovery you shared in your addendum as to chrome proxy compression (not disconnect.me) causing your 'save image as' downloaded files to be corrupted.  and i like that even non-users of disconnect.me might find the answer to why their downloaded image files were corrupted if a search for help leads them here to your news. yea for community!
+n, corrupt
+-------------------------
+very helpful app there is not adware installed if you pay attention when you download.  i have had this on my browser for over a year now and it has really prevented a lot of things.  love the plugin
+p, prevent, adware
+-------------------------
+had it disconnect it as it blocked the body of my emails.
+n, block
+-------------------------
+this extension is amazing and important for anyone who cares about their safety and privacy. 
+
+if you're going to have extensions on chrome, this  is it.
+
+a+++ product!!!
+p, privacy, safe
+-------------------------
+latest version seems to break the chrome tweetdeck app, doesnt show user images.
+n, block
+-------------------------
+great extension, makes it intuitive to control your online privacy
+p, privacy
+-------------------------
+the only problem ive encountered is it wont allow uploading pics to facebook on occasion. i narrowed down the issue by disabling my extensions in chrome one at a time and it turned out disconnect was the culprit... otherwise a good ext
+n, break, disable
+-------------------------
+i love the concept here and have had it installed for quite awhile, but there are now just way too many websites that don't work properly when this extension is installed.  there are too many sites where some of the dynamic content just doesn't work - often videos for some reason and this includes major popular news sites.
+n, break
+-------------------------
+how can you not love this extension?
+p, 
+-------------------------
+it did initially seem to interfere with google photos but i resolved that by whitelisting the site. you can tune what it blocks, which may help you with problems on certain sites.
+p, whitelist
+-------------------------
+generally thought this was great, until i discovered it blocks the cbc's video player. needs a fix
+n, block
+-------------------------
+i had to uninstall it because it makes several sites i regularly use unusable. if they add a function to add exceptions for certain sites then i might consider re-installing.
+n, break, unusable
+-------------------------
+used to be decent but now it slows down my browser, messes with flash movies, crashes chrome a lot, and it even lagged my whole computer until i ctrl+alt+del chrome. will not recommend.
+n, slow, break, crash
+-------------------------
+does ghostery really still do that? i thought they haven't since they were acquired by cliqz, which helps out mozila with firefox's privacy.
+n, 
+-------------------------
+catches every nasty little tracking bugger floating around the innerwebs
+p, tracking
+-------------------------
+great. just wish i didn't have to unblock every site every time i change pages. should be my choice...
+n, unblock
+-------------------------
+it is good but made browsing slow
+n, slow
+-------------------------
+it's conflicting because all of those extensions do the exact same thing. try only using one because that's all you really need.
+p, 
+-------------------------
+this is an excellent program!! i have found that my slacker radio runs much smoother.
+p, work
+-------------------------
+really good shows everything that's tracking you(and even discovered some very use full websites by looking up some of them)
+p, tracking
+-------------------------
+web pages load like far quicker now i have this installed. great extension.
+p, fast
+-------------------------
+used to be great but blocks all images from tweetdeck and there is no option to "allow" certain sites. so i have to choose tweetdeck or disconnect.
+n, block, allowlist
+-------------------------
+i've been using this for quite a while. i love it for facebook. there's the odd site that plays up even if i select the whitelist option but most are ok.
+
+for those giving low scoring reviews for not allowing whitelisting, the option's there. it's about 2/3 of the way down on the left side of the popup if you click the disconnect logo under your minimise button.
+p, whitelist
+-------------------------
+works seamlessly in the background and seems to speed up page loading time. i have used this extension for quite some time, it seems to be working very well.
+p, fast
+-------------------------
+good extension, but even some website i have whitelisted like twitter are unusable if it's on. this is a pretty big oversight and it has caused some problems on other sights as well.
+n, whitelist
+-------------------------
+this is the s--t u really need this works hella good
+p, work
+-------------------------
+simple, elegant way to prevent unwanted third party and tracking cookies. if you are like me and would just like to control what you can (and not someone who thinks the government is tracking your grocery purchases through the cardboard sim card in your prepaid phone) this is a great idea. i noticed people mentioning that certain sites dont work after installing- you just need to add it to the permissible list and change your settings to be a little less restrictive and your services will work again. i went through this with my gmail acct. anyway, this is a must have for peace of mind.
+p, whitelist, permissible list
+-------------------------
+but this extension, by default disable any request from google.
+p, disable
+-------------------------
+popups promoting their paid product and removal of options will force me to seek other options. was great until they started doing the very thing the app is suppose to prevent.
+n, popups
+-------------------------
+like others have reported, it messes with site functionality and sometimes those are important things that you are doing on those sites.
+n, break, messes
+-------------------------
+the only problem ive encountered is it wont allow uploading pics to facebook on occasion. i narrowed down the issue by disabling my extensions in chrome one at a time and it turned out disconnect was the culprit... otherwise a good ext
+n, allow, disable
+-------------------------
+great extension, makes it intuitive to control your online privacy
+p, privacy
+-------------------------
+great extension. my only complaint is that when i use it i cannot open pdf attachments in google's inbox when disconnect is enabled. i'm using windows 7 and the latest version of chrome. i will re-enable the extensions once this is resolved. otherwise, keep up the good work! thanks.
+n, break, open
+-------------------------
+very good, i'm not going to be tracked by facebook again.
+p, tracking
+-------------------------
+i hate google (nsa) 4 their following us all over the internet. this is one of the best extensions available.
+p, block
+-------------------------
+was blocking my flash player from playing videos
+n, block
+-------------------------
+great extension, love the feeling of privacy it provides.
+p, privacy
+-------------------------
+solid app. blocks 3rd party tracking from the major privacy invaders.
+p, tracking
+-------------------------
+it is awsm i have been using it for a period if time and i'm  satisfied by it's performance....
+p, 
+-------------------------
+blocks ads, unnecessary request and don't interfere with normal usage. if a site is safe or u like to enable something that was blocked, you can white-list the site and no that all. nice addon for any browser.
+p, whitelist, block
+-------------------------
+chrome keeps showing at the bottom "waiting for disconnect" and so web sites take too long. went back to adblock plus, ghostery, donottrackme, hola, virtru,and zenmate.
+n, slow, long
+-------------------------
+not bad. i'm impressed with how it work and what it does. i gotta give it props.
+p, work
+-------------------------
+i like this extension, but one problem.
+
+denying load of chrome-extension://jeoacafpbcihiomhlakheieifhpjdfeo/scripts/vendor/jquery/jquery-2.0.3.min.map. resources must be listed in the web_accessible_resources manifest key in order to be loaded by pages outside the extension. please fix it! that annoys me.
+n, load
+-------------------------
+--------------------------------------------------
+privacy-badger
+50
+-------------------------
+everyone is saying this about the app.  i will probably wait to download it, but it seems to work well from other reviews
+p, 
+-------------------------
+broke more websites than the duckduckgo extension or my ad blocker (ublock) but provides easy and advanced options to personalize how it works. they also take direct feedback to report that the extension broke a website. in general, i'd totally reccommend.
+update nov. 2020: had to disable it for now as the extension is interfering with google login on other sites, i hope they get to fix it soon.
+n, break
+-------------------------
+good for peace of mind. the only problem is that when a web site seems broken, you have to remember to disable privacy badger for that site to see if it fixes the problem, as the way the tool works does break some sites that are designed in an unusual way. i just wish it had a *temporary* shut-off switch ("reload without privacy badger"?) to help me establish if pb is the problem.
+
+it has a side-effect of blocking some ads, which also causes some news sites to demand you disable it.
+n, block, break
+-------------------------
+great tool. might be even better in some cases then adbock. and the tracked adjustments seems amazing!
+p, 
+-------------------------
+works as expected: great!
+cpu hog: not great.
+
+it would regularly hit 80-100% cpu in chrome's task manager when opening a new tab or page, and seemed to significantly slow down chrome's launch time.
+n, slow
+-------------------------
+cool add on, i'd love to have shortcut to toggle pb and also to enter settings
+p, 
+-------------------------
+cannot log in to hangouts extension, dont have a control panel to manually see _*all*_ domains of which privacybadger controls and set them by hand, so have to guess respective google domains and have to try to disable on them - no avail.
+p, break, disable
+-------------------------
+not sure if there is an "ad blocker" out there that does let you see some ads... with the exception of the optional "let me see responsible advertising" option in most ad blockers these days, if you are seeing adds whilst using one, it is probably not doing a very good job... 
+n, ads
+-------------------------
+needs a reset button.  i made a couple of selections as something wasn't working on a site but later realised i was getting loads of new ads on a different site.
+no way to no which blocked cookie did it and no ability, bar going through over 30 cookies and testing each one individually.
+n, reset
+-------------------------
+it has been great up until the recent update. firstly, it is being flagged by google as slowing down chrome; and secondly, it is blocking the buffer extension despite whitelisting and doesn't remember me selecting to unblock.
+
+edit: uninstalling and reinstalling fixed the buffer bug.
+n, whitelist, slow
+-------------------------
+that's awesome privacy badger extension !!!!!
+p, 
+-------------------------
+i would rate 5 stars, but chrome keeps telling me that it's slowing down my browser. if this is normal please tell me because no matter what i won't uninstall this extension, but it would be nice if someone could help me with this. other than that, this extension is a must have for everyone.
+p,
+-------------------------
+when privacy badger breaks a site, you could let us know about the breakage by clicking on the "did privacy badger break this site?" button in privacy badger's popup.
+n, popup, break
+-------------------------
+does what is says it can do.
+p, 
+-------------------------
+works well, i like it as a more trustworthy alternative to ghostery
+p, alternative
+-------------------------
+works well, i like how it learns which trackers are bad or good and adjusts accordingly to keep your browser and personal data safe! i have stopped use a adblocker because this works so well. because a lot of advisements have malware trackers in them  , it's has stopped ads on youtube.
+p, learn
+-------------------------
+the rotten tomatoes web-page which i use extensively started to open with no pictures.  i suspected cookies & so cleared them out but to no avail.  the next suspect was extensions &, as this was the last one added, i switched off & voila!  rotten tomatoes is now loading correctly.
+
+having 'all else failed', i've now read the instructions & disabled pb on rotten's site & all is well. doh!
+n, break
+-------------------------
+it seems to work pretty well.
+p, work
+-------------------------
+https everywhere can be enables in most browser's settings without addon
+p, 
+-------------------------
+so far i'm loving this extension. on the other hand i imagine that google is hating it. and facebook. and twitter. and addthis. and so on and so on...
+p, 
+-------------------------
+i'm not very interested in the privacy aspect of this extension (because i use a vpn), but it can make websites like fandom/wikia load faster than the speed of light. adblock plus and privacy badger make an excellent duo.
+p, fast
+-------------------------
+same thing happened to me. i just uninstalled it altogether because nothing would load. 
+p, load, break
+-------------------------
+like the way that it learns as it goes. never felt completely comfortable with everything blocked in abp or ghostery since they rendered many sites in error or non-functional. wasn't such a big deal for me but made it problematic for less experienced user. privacy badger is easy to use for advanced users that want to block everything but still offers good protection and functionality to users who just prefer to browse.
+n, complex interface
+-------------------------
+note that yesterday's update has broken videos using both flash and html5 formats for many sites on the chrome browser.  disabling it on those sites (or disabling the extension) will fix the problem.  the firefox version did not have the effect of breaking these videos.
+n, break, compatibility
+-------------------------
+does not block trackers by default nor does it give you the option to change this setting (in fact, it lacks any type of settings)
+n, default
+-------------------------
+it appears facebook, twitter, and ajax.googleapis have found a way to get around privacy badger.
+i just can not believe those 3 (and plenty of others) are not actively tracking me when they are listed under "the domains below don't appear to be tracking you"
+developers, please take a closer look at this.
+if their not tracking, then why are they present?
+n, confusion, google, tracking
+-------------------------
+used to work really well but recently it has suffered. regularly the extension will prevent the page from loading. you'll see a "waiting for privacy badger" message. i assume it's because it's grabbing external scripts somewhere. there really should be a fall back option so that if it times out the page can still load. i keep having to disable it and am close to removing. i still have hope though!
+n, break, load, remove
+-------------------------
+stopped eleven trackers on one website.
+laptop seems faster and
+no buffering.
+could be coincidence.
+but at the very least
+facebook doesn't know what i'm doing any more.
+p, fast, block
+-------------------------
+this app breaks reddit if it's installed for longer than a week. they need to fix this.
+n, break
+-------------------------
+could you update your review please? the bug was fixed promptly.
+p, 
+-------------------------
+i love it a lot. it does a great job behind the scenes and has the big plus of being governed by the eff. there are rare occasions where i have to intervene (once a month?). the intervention is most of the time simple (move a slider in the popup). 
+
+it drastically improves my internet experience on a daily basis. what could you want more?
+p, 
+-------------------------
+does nothing for my computer. i have not seen this application be able to block anything. i tried it for a week and find it hard to believe that all the sites i visit are are tracker free and safe. i uninstalled this add-on today.
+n, 
+-------------------------
+works well. a bit overzealous sometimes but the interface is great and makes it easy to unblock stuff as required.
+p, block
+-------------------------
+half the time it works, other half it prevents any page from loading with "waiting for privacy badger"
+n, break
+-------------------------
+initially, it seems pretty cool.  i used it for about six months, if you read about this on some other professional reviews, you'll find something to the effect of "it's cool, but breaks the internet experience"  and that's kinda true.  after you install this, depending if you are a power user or facebook only internet user, be prepared to spend 5-10 minutes a day playing the "recaptcha" clicking on the picture games for literally every site you go to.  does that sound too bad" well that's 30-60 hours of year you are wasting with recaptcha because your user experience is indeed kinda broken. some may say paying 30-60 hours of your life away each year is a small price to pay for added privacy, but i think you are getting by just fine using ublock, https everywhere and paying for adguard. you have to weigh it yourself. give it a try for sure.  but i think there are better options out there.  you'll have a lot more time to live life without this horrible extension wasting your time.
+n, recaptcha
+-------------------------
+i installed this and when i go to extensions i get a warning that says "not from chrome web store", even though i added it from chrome web store.
+n, unclear
+-------------------------
+this application does the job it is designed to do very well. i am always interested in seeing the absurd number of intrusions that it has blocked in certain websites. my problem with it is that it seriously effects the working of a number of websites. in particular many websites are unable to play or load videos. while i am sure that some videos are problematic i dont believe as many as it is blocking are. the problem is that when you look at the drop down box it is impossible to see which of the elements being blocked are privacy related and which are content related. i am sure that this is somethign to do with the underlying content, but it means that bar spending 10 minutes every time i want to play a video, i simply end up turning off its protection, which defeats the point of having it in the first place. however most of the time this works without having to think about it
+n, break, slow
+-------------------------
+because it's not an ad blocker. it's confusing for me too. it works tho. just not as an ad blocker.
+p, confusion
+-------------------------
+if it had whitelisting capability, it would make this app even better :d
+n, whitelist
+-------------------------
+the rotten tomatoes web-page which i use extensively started to open with no pictures.  i suspected cookies & so cleared them out but to no avail.  the next suspect was extensions &, as this was the last one added, i switched off & voila!  rotten tomatoes is now loading correctly.
+
+having 'all else failed', i've now read the instructions & disabled pb on rotten's site & all is well. doh!
+n, break
+-------------------------
+made the charts in tradingview all wonky/misaligned scales. had to remove. no idea why it would have an effect.
+n, break
+-------------------------
+this is a good extension, and it's worth using overall.
+
+however, it has a few problems that i'd love to see fixed in an update:
+
+- speed, it does significantly slow down browsing and i'd hope it could be made faster.
+
+- doesn't work with refcontrol, and doesn't provide replacement functionality. i want to forge third-party referers as refcontrol allows, but that's not possible with this extension. this causes some sites to behave unexpectedly (for example, forbes.com).
+n, slow, break
+-------------------------
+you care about privacy but still use fb 😕?
+n, 
+-------------------------
+need configurable exclusion list/whitelist.
+
+the longer i use it the worse it interferes with google and other logins!!
+n, break, whitelist
+-------------------------
+blocked me from opening ads i wanted to see; articles i wanted to read; etc. and when i uninstalled it, chrome acted erratically. do not install this. i had to re-add it to chrome to post this review. now i will re-uninstall it.
+n, break
+-------------------------
+massively slows the loading of the browser even on my top-end gaming pc. makes the browser lock up (windows states that it is unresponsive and asks if i want to close chrome) for 30 to 40 seconds each and every time that the browser is loaded. the situation is predictably worse on this under powered notebook from which i am presently writing this review.  this add-on is a great idea, but has terrible execution.
+n, slow
+-------------------------
+extremely good and useful. but recently slows surfing to a crawl. 
+
+a lot of pages show "waiting for privacy badger"
+n, slow
+-------------------------
+downloaded from chrome store but that isn't what the extension says?
+n, compatibility
+-------------------------
+i have run it under firefox for about 6 months  and have not had any problems.  i just loaded it under chrome, and started reading reviews that say it doesn't work well under chrome so i may be deleting it in the very near future.
+n, compatibility
+-------------------------
+i've been using this app on firefox for a while and loved it. now that i'm on chrome i've added it for the protection.
+p, 
+-------------------------
+--------------------------------------------------
+canvas-fingerprint-defend
+20
+-------------------------
+not a lot of options apart from notifications and activation/deactivation but works well. its not supposed to make your fingerprint not unique but does deceive a lot of sites
+p, multiple options
+-------------------------
+seems to work perfectly.  it does need a whitelist for the troublesome sites.
+p, whitelist
+-------------------------
+works as expected. you should put the repository on github so we can make a settings page to allow customization.
+p, allow customization
+-------------------------
+exceptional, have used in multiple pc's and it's crazy how it's safe & at the same protects what you dear the most! :)
+p, protects
+-------------------------
+i had high hopes, since i saw the popups appearing during the panopticlick scan.
+yet at the end i had the disappointment:
+does your browser protect from fingerprinting? ✗ your browser has a unique fingerprint
+n, 
+-------------------------
+dont work. i tested with uniquemachine.org and it identified me everytime
+n, identify
+-------------------------
+seems to work well.  only thing is for panopticlick it seems to break something which makes me a bit wary.
+n, break
+-------------------------
+it's great at what it does.  and i was shocked to see just how many sites are using browser fingerprinting of one sort or another. 
+
+but it really needs some configuration options. you can't even turn it on and off from the menubar if it breaks a site. you've got to actually open your browser's preferences and disable it, which is about as user-unfriendly as you can get.
+n, user-unfriendly
+-------------------------
+it's great at what it does.  and i was shocked to see just how many sites are using browser fingerprinting of one sort or another. 
+
+but it really needs some configuration options. you can't even turn it on and off from the menubar if it breaks a site. you've got to actually open your browser's preferences and disable it, which is about as user-unfriendly as you can get.
+n, user-unfriendly
+-------------------------
+it doesn't work.  https://coveryourtracks.eff.org/ still detects my unique fingerprint when it's used.
+n, 
+-------------------------
+yes. when you click the extension there is a toggle to turn it on and off. when in the 'on' position, it shows as gray in the extension icon
+p, turn on/off
+-------------------------
+not a lot of options apart from notifications and activation/deactivation but works well. its not supposed to make your fingerprint not unique but does deceive a lot of sites
+p, options
+-------------------------
+it seems like this only works against some trackers; i get random fingerprints on https://coveryourtracks.eff.org/ or https://browserleaks.com/canvas, but i don't get them on https://fingerprintjs.com/demo/ (an actual, paid product for this service).
+n, selective
+-------------------------
+good privacy app. wish there were a customizations page.
+p, custom
+-------------------------
+exceptional, have used in multiple pc's and it's crazy how it's safe & at the same protects what you dear the most! :)
+p, 
+-------------------------
+good privacy app. wish there were a customizations page.
+p, custom
+-------------------------
+perfect, does what i need it to do, it will randomize your fingerprint across all sites trying to read it.
+
+i tested with panopticlick and every time it gave a different fingerprint. this is a great extension for anyone looking for an extra layer of anonymity.
+p, anonymity
+-------------------------
+does exactly what it should do and claims it does. tested at https://browserleaks.com/canvas 
+i like that this is a one-exploit fix instead of a plugin claiming to spoof all forms of user fingerprinting, since new methods of that come up all the time. it's better to be certain that you have a particular weakness patched up because you have an extension that corresponds to it exactly, than to go without preventing a leak because you assumed it was included in some catchall extension but it wasn't.
+
+ps: anyone who cannot figure out that they can click on the extension's icon and pick "show|hide desktop notifications" simply doesn't deserve to use this extension. heh.  really, the developer should just turn this option off by default, since it's obviously the only thing causing unhappy feedback.
+p, prevent
+-------------------------
+yes. when you click the extension there is a toggle to turn it on and off. when in the 'on' position, it shows as gray in the extension icon
+p, turn on/off
+-------------------------
+awesome, does exactly what i need it to do!  although, i know how to detect this with javascript, it just takes a little bit of thinking ;-).
+p, javacript, detect
+-------------------------
+--------------------------------------------------
+user-agent-switcher-for-c
+30
+-------------------------
+does what's advertised.  many users may find it difficult to add custom uas to the extension since the link to the settings page in the menu was removed several updates ago.  right click on the icon and click options to find it again.
+
+3 stars because of ridiculous disimprovement in ui since the first time i installed it.
+n, ui, custom
+-------------------------
+it's so old, it completely useless. most web pages wont even load with this installed.
+n, load
+-------------------------
+you can add googlebot, from “custom user-agents”, in the extension settings page. according to the webpage at the bottom of my post, googlebot's  user-agent is “mozilla/5.0 (compatible; googlebot/2.1; +http://www.google.com/bot.html)”.
+
+https://support.google.com/webmasters/answer/1061943?hl=en
+p, add
+-------------------------
+how about some export options? or that "centralized user agents list" that someone was talking about a while back?
+n, options
+-------------------------
+was able to get html5 video to play on bbc
+p, 
+-------------------------
+great tool - which would be perfect if it synced its settings across all of my pcs which are logged into chrome.
+p, sync across devices
+-------------------------
+does not work. 05/2013. latest chrome.
+n, work
+-------------------------
+very limited on options of browsers and devices. 
+
+go with something else unless they update the list.
+
+only one flavor of android, etc.
+n, options, compatibility
+-------------------------
+wish it would remember the setting per page, and that the default user-agents would be updated.
+mine still shows kitkat for android...
+n, update, settings, default
+-------------------------
+nice extension, but it doesn't work.
+at least on linux, chrome version 40.0.2214.111 (64-bit)
+
+sorry, i managed to make it work.
+for everybody needing this info: you need to go to extensions settings and check the box "allow access to file urls" fot this extension.
+
+then it works :)
+
+thank you for this great plugin!
+p, work
+-------------------------
+this extension doesn't allow arbitrary uas. only a number of preset uas. disappointing.
+n, options
+-------------------------
+i use this for roblox items
+p, work
+-------------------------
+it works! i had to delete all chromium 17 settings to force it to update completely and after that all works fine.
+p, work
+-------------------------
+also, if its too troublesome to add new versions every time there's an update
+please allow manual entry of user agent string (if that works)
+n, manual, add
+-------------------------
+if you want you can in fact get a chromium 59 based browser for 32-bit linux:
+http://www.slimjet.com/en/dlpage.php
+
+slimjet have much more settings (than google chrome) - small part of which you can see on this screenshot:
+http://i1-win.softpedia-static.com/screenshots/portable-slimjet_13.png
+n, alternative
+-------------------------
+please provide reasoning for why each permission:
+"access your page data on all websites"
+"access your tabs and browsing history"
+is necessary
+n, permissions
+-------------------------
+i removed it and readded it and it works again.
+p, work
+-------------------------
+this is exactly what i had in mind...android/ios sites on web chrome...love it!!
+p, 
+-------------------------
+i use this browser extension a lot and has a lot of custom user agents added to it. i see the option to export the content to json but dont see a button for importing the json data back. i am stuck after choosing the json file from browse. please help.
+n, error
+-------------------------
+roughly seems to work, but gives this error under
+
+chrome://settings/extensions :
+
+this extension failed to modify a network request because the modification conflicted with another extension.
+n, error
+-------------------------
+easy to use and very handy for work and testing!
+ but there is no internet explorer 9 10 or 11? those are the browsers i primarily test on :(
+n, compatibility
+-------------------------
+while it enables chrome to act as different browsers, after short while i discovered that the "default" setting does not return chrome to its original state; now i seldom can do search from the address bar as it kept informing me that instant search is not available, while previously i have no problem with that.
+n, default
+-------------------------
+i love it, but can you make a user agent for the wii u and other nintendo consoles?
+p, 
+-------------------------
+does not work on opentable.com.  i can see in http headers sent that it is still sending the browser's own user agent, not the one i selected.  this is despite the extension icon correctly showing the user agent it is supposedly configured to use.  does work on other sites though.  so there is a weird bug somewhere.
+n, work
+-------------------------
+easy to use and very handy for work and testing!
+ but there is no internet explorer 9 10 or 11? those are the browsers i primarily test on :(
+n, allowlist
+-------------------------
+great extension for web development. easily allows you to define and add you own custom user agents to the pre-defined list. 
+
+i wish it would work per-window, however. unfortunately, switching your user agent in a single tab or window globally changes your user agents, which generally breaks all of my other open browser windows.
+n, functionality
+-------------------------
+works great for exchange webmail from linux.
+
+i used the below user agent:
+
+mozilla/5.0 (windows nt 6.2; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1667.0 safari/537.36
+p, 
+-------------------------
+very good one. helped me a lot.
+p, 
+-------------------------
+it works, if for example you choose ie9, if it's working a little ie9 icon will appear under the little mask. 
+
+if it doesn't it's not working, in which case simply remove it from chrome then re-add it.
+
+regards,
+mike
+p, work
+-------------------------
+use this all the time. tried many alternatives, and this one won me over on the first use. continues to improve, also. thanks glenn!
+p, work
+-------------------------
+--------------------------------------------------
+scriptsafe
+20
+-------------------------
+in addition to asking for permission to "display notifications" and "change your privacy-related settings", it's also asking for permission to "read and change all your data on the websites you visit". that sounds pretty extreme. what's it need that permission for? i've left scriptsafe disabled for now.
+n, permissions
+-------------------------
+used to love it.
+
+alas, as many others have written, it has taken a turn for the worse since the rename.
+n, 
+-------------------------
+was fine now so useless i have disabled it hoping it gets better soon
+n, 
+-------------------------
+finally gave me a reason to switch from ffx
+p, compatibility
+-------------------------
+i've been using it for a long time now to block ads and other unwanted content. it's not perfect, but it's great. there are moments where it seems to have like a hundred things to block or unblock, but it's tolerable.
+
+right now, however, i am experiencing a popup on my homepage "chrome://apps/" where it detects that i have things synched to google and asks for permission to do so every time i launch chrome even though i have it set not to provide that popup.
+p, popup, block, greenlist
+-------------------------
+awesome add-on, and superior to noscript.  the people complaining that its 'too complicated' to allow trusted sites are simply inexperienced computer users.  if you have even a rudimentary understanding of html and website file structures scriptsafe is the add-on you want.  you can specifically enable only the scripts you want to run on the site.  as i said if you know what you are doing this is superior to noscript because you can make sure that only the script for the site and the comments section works, for example.  absolutely no chance of malicious scripts running with this on your chrome.
+p, allowlist
+-------------------------
+wonderful extension.  hwever i wish there was a way to allow all tld's (top level domains) but block all else, just like in noscript for firefox.
+p, allowlist
+-------------------------
+it could be a brilliant ***** app but ...
+
+works most of the time but there are some critical sites that don't work for me.
+
+need to implement a diagnostic/reporting feedback process for sites that are broken to improve this extension.
+p, break sites
+-------------------------
+its like a condom to have safe sex with piratebay
+p, 
+-------------------------
+i'm using this with google's chrome dev channel build and it works quite well.
+
+i've been a firefox user for years and had been going back to firefox because of the noscript add-on. if you're familiar with noscript on firefox you'll quickly find this useful and about as intuitive as noscript.
+
+one thing i really like about firefox's latest nightly build is that, by default when connecting to a site via https, firefox will block all insecure elements.
+
+adblock plus is available for chrome and now i have a noscript equivalent. for the first time in many tech years i've set a different browser to be my default.
+p, 
+-------------------------
+adding an option to enable/disable on whitelisted website will improve using this plugin.
+p, whitelist
+-------------------------
+great extension! question, with this extension i've been able to see how many "pieces" of js a site tries to run, and in facebook's case it can range from 30 to 40, why on earth would a site need to be so darn heavy on js? thanks.
+p, 
+-------------------------
+terribly annoying to use. i prefer noscript for firefox. much more intuitive and user friendly. this extension is very annoying and gui is terrible. the biggest issue with it is on facebook and making comments or posts. i suggest future versions use facebook as a sample test. otherwise, i will be using firefox when i go to facebook. aside from this, scriptsafe does speed up your browsing considerably.
+n, gui, break
+-------------------------
+performed a system restore, and couldn't sync my data any further. keep getting this error: "failed to open database: corruption: 1 missing files; e.g.: .../000152.sst
+
+thinking it was a bug, i uninstalled and reinstalled. tried to perform a sync, but got the same error message. i am unable to sync from or to the google account.
+n, error
+-------------------------
+this is a must on some websites. however it is extremely annoying to have to turn it off all the time for normal use.  if you dont turn it off it has like 100 blocked items on imdb for example. it's terrible in that respect
+n, blocklist
+-------------------------
+would be great to have the ability to whitelist all your bookmarks, as an option.
+p, whitelist
+-------------------------
+this is the best of the noscript substitutes for chrome but…
+
+• no hotkey
+• no single-click toggling with the icon
+• i have to escape out of the dialog to refresh the  page. i see no reason why it doesn't refresh immediately.
+
+the whole process of using this extension is annoying, tedious, and slow. click icon. select option using trackpad--no keyboard access!  click in blank area or hit <esc> to refresh.  usually this has to be repeated at least once since new sites to enable pop up.
+
+i temporarily allow js for most sites, and i usually have to enable js at least once again on most sites, so all of the above just make using this a slow, annoying, tedious, multi-click process.
+
+needs work…
+n, break, slow
+-------------------------
+after opening chrome on a new computer and signing in, scriptsafe on the new computer deleted all my cloud-saved settings.
+
+what the hell is the point of saving to the cloud if it just resets everything.
+n, settings reset
+-------------------------
+you're app is just amazing
+
+cheers and keep up the great work !
+p, 
+-------------------------
+menu doesn't work so you have to keep pressing it over and over if you want to enable stuff.
+
+also the option to temporarily allow a script doesn't seem like it works.
+
+am uninstalling and will try other extensions instead.
+n, error
+-------------------------
+--------------------------------------------------
+decentraleyes
+20
+-------------------------
+cool idea. one of those extensions that works with little effort on the users part. pairs well with adblock etc
+p, collusion
+-------------------------
+what are some examples of locally hosted cdn? thank you for the amazing extension.
+p, 
+-------------------------
+it causes high cpu usage when playing videos (eg.on youtube) on ubuntu 18.04 probably because it disables hardware acceleration. i don't know the cause but what i do know, this extension made my computer a toaster.
+n, cpu usage
+-------------------------
+not working anymore? says like extension may be corrupted, same thing if i uninstall it and reinstall it [fyi - i am using brave browser, not good with the terminology here, but i believe it's a fork of chrome - it runs on chromium i would assume - it uses the chrome extension webstore [have a similar issue using saaspass which is annoying] any help or maybe it needs a patch? appreciate you & the extension, will check back to see if there are any updates or if you have any idea what's going on [don't know if its just me or everyone across the board] have a great week & happy holidays!
+n, not work
+-------------------------
+warning: this extension failed to modify the request header "referer" of a network request because the modification conflicted with another extension (umatrix). i use referrer spoofing setting in that other extension this is the warning message i would like to be able to ignore or hide from chrome thanks and sorry for not properly post about it the frist time
+n, modify header
+-------------------------
+that test page mentions it "please make sure that decentraleyes is installed and enabled. download it for firefox, or chromium-based browsers (e.g. chromium, chrome)." and the official site does also. guessing they just didn't have the site updated at first
+n, 
+-------------------------
+when do you expect to get the chrome extension to catch up with the ff add on?
+n, compatibility
+-------------------------
+with a 150% scaling to a fullhd and chrome's 100% zoom, the options window bounces.
+n, 
+-------------------------
+"rozszerzenie nie przekierowało żądania sieciowego do chrome-extension://ldpochfccmkkmhdbclfhpagapcfdljkj/resources/jquery/1.4.2/jquery.min.js.dec, bo inne rozszerzenie (https everywhere) przekierowało je do https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js."
+n, redirect
+-------------------------
+this is the precise type of question i am attempting to answer for myself when i come to reviews tab.  asking people to submit the questions elsewhere leaves an impression that you may be trying to "duck the competition" so to speak.
+
+i can kind of understand a desire to not add an additional place to "have to worry about checking for questions".  in my opinion, in this case it may be a mistake.
+n, 
+-------------------------
+well, i see. many chinese sites use these cdn, especially bootcss, which is supported by upyun.
+p, cdn
+-------------------------
+yes, probably. i also contacted decentraleyes via email, and they responded that this is indeed official extension, and that they updated the site.
+p, update
+-------------------------
+evidently, this is very similar to another well-known extension called "web boost." are there any major differences? would there be any significant reasons to use one over another?
+n, alternative
+-------------------------
+you can use chrome extensions on edge. just go to chrome web store from edge and install as usual.
+p, 
+-------------------------
+seems to work overall, but breaks chrome gogglestore right here by sticking on redirect to googleads.g.doubleclick.net/ads/preferences/cu/optout?continue=ahr0chm6ly9jb25zzw50lmdvb2dszs5jb20vywq_y29udgludwu9ahr0chm6ly9jahjvbwuuz29vz2xllmnvbs93zwjzdg9yzs9kzxrhawwvbnblawnwzgjrywttzwhhagplzw9ozmrobmxwzgtsawemz2w9tfumagw9zw4tvvmmed05jnbjpwn3cyzzcmm9mq%3d%3d&region=lu&xtoken=adw3f8jpv_cjrumfzyan1_sx0_zkxqgwrw:1647283228414&ac_tld=com
+
+opening a link again in new tab works.
+p, break
+-------------------------
+with a 150% scaling to a fullhd and chrome's 100% zoom, the options window bounces.
+n, 
+-------------------------
+when do you expect to get the chrome extension to catch up with the ff add on?
+n, compatibility
+-------------------------
+use chrome storage to sync settings between pcs it'd be awesome! https://developer.chrome.com/extensions/storage thanks for a good extension!
+p, storage
+-------------------------
+i just wanna know does it support braves bulit-in adblocker
+p, compatibility
+-------------------------
+great extension, no arguments about effectiveness of the functionality, one thing that would be good, and i admit, only 'would be' it's not a game-changer or anything, but the 'extension options' in chrome, gives a very small popup box, and the list of sites that have been allowed previously, is therefore quite ungainly to work with. i know that most times, just working with the toggle on/off from the button is fine, but i have noticed on very rare occasions, a site might not get removed from the list, so a more visible listing would be nice. as i said, it's not a game-changer or a deal breaker, just an "i wish." thanks for all your hard work.
+p, popup, list, 
+-------------------------
+--------------------------------------------------
+adguard-adblocker
+100
+-------------------------
+i have been a user of adguard for quite a long time and have also bought lifetime license for most of my devices (pc & android). i do see a lot of difference with and without adguard usage and definitely its a positive one with adguard usage. i am not sure how much of user privacy is anonymous through adguard but it definitely works a charm on the browsers am using. the good part of adguard android app is that it also blocks ads on most of the other apps (youtube is an exception).
+p, compatibility
+-------------------------
+i adore this extension and highly recommend it to anyone who is sick of annoying ads.
+p, 
+-------------------------
+i take this back it works idk why it said what it did tho
+p,
+-------------------------
+it simply did what it is suppose to do.
+
+for me i've no trouble with it.
+
+side note i do use it with adblock and adblockplus
+
+-norris
+p, 
+-------------------------
+doesn't block new tabs from popping up that are ads :/
+n, popups, tabs
+-------------------------
+i have tried quite a few ad blockers in the past but this one is by far the best one you can get. 
+i have never had any hassles with it nor has it been annoying to have unlike other ad blockers.
+i'm quite surprised that it's even free to use, 
+by the amount of options, filters and protections it offers.
+p.s using google chrome.
+p, 
+-------------------------
+blocked all my ads once i downloaded the the adguard for windows
+p, 
+-------------------------
+does what it says on the tin.
+p, 
+-------------------------
+good for blocking popup ads from extratorrent.cc
+p, 
+-------------------------
+very effective!
+a powerful adblocker, their adblock list is so good!!
+♥
+p, 
+-------------------------
+the only reason for the low stars is it can't catch malvertising. i can't find what extension was unintentionally added and thought adguard would stop it, but it can't unfortunately.
+
+other than that it does its job.
+n, malware
+-------------------------
+great adblocker, deleted all of the asian dating ads xd -_-
+p, 
+-------------------------
+muito bom e fácil de usar.
+delete
+-------------------------
+the best adblocker since sliced bread. nothing but the best...
+
+only wished i had used it before.
+
+works a treat...!!!
+
+well worth installing guys...!!!
+
+thanks a lot...
+p, 
+-------------------------
+good but please give me a full version with one year license key free
+p, 
+-------------------------
+its better & lightweight & also its memory consumption is less than either of adblock or adblock plus.
+p, fast, storage
+-------------------------
+very very useful warns you of bad sites as well as blocking all kinds of ads from popups to banners
+p, 
+-------------------------
+did a wonderful job! love it!
+p, 
+-------------------------
+i love it so much :) itz a amazing software, i never got like this.. just amazing..... guyz rate it in 5 star.. and enjoy the software.....
+p, 
+-------------------------
+dictionary.com brought this to my attention: it's not right to deny webmasters their right to money. they built a website and provide us with free services, and all we do is block their income. is that right?
+n, 
+-------------------------
+this is great over 200k ads blocked i luv it
+p, 
+-------------------------
+i use it in my all devices. i loved the first time i used then i am just a loyal user and fan of this.thanks developers.
+p, 
+-------------------------
+still have loads of ads popping up with windows 10 even when using the chrome browser
+n, compatibility, popups
+-------------------------
+great user interface, powerful ad blocking capability, totally free, what can you expect more from an ad blocking extension, this extension rocks.
+p, ui 
+-------------------------
+i have used adguard for a few years now.  it is the only ad-blocking extension that i add to my browsers right now.
+p, 
+-------------------------
+it blocks both pop ups and ads and is better than adblock
+p, 
+-------------------------
+sucks!! adfs still get through and they have the balls to charge for it?? lmao
+n, block
+-------------------------
+nice ext for adblocker, it's works well with anti-adblock
+p, 
+-------------------------
+i am using it since 2016 and this is truly the best adblocker with lots of features.
+p, 
+-------------------------
+best free adblocker ever. better than even some paid adblockers!
+p, 
+-------------------------
+love this app, eventhough most of the sites i visit do every thing they can to try to get me to turn it off!!  i have always had great results with this service.  thank you!
+p, 
+-------------------------
+ive been using since 2018and ongoing and i keep recommending it to friends cause its not only the best adblocker ive gotten, but also free. so yeah 10/10
+p, 
+-------------------------
+i don't enjoy ads when i'm surfing the web.
+been more than happy with adguard adblocker.
+p, 
+-------------------------
+you'll use this adguard adblocker for your computer.
+p, 
+-------------------------
+love it!  blocks ads beautifully.  works great with hulu and cbs.
+p, 
+-------------------------
+yeah okay so basically i'm monkey. this app i really good would recommend and there are many reviews saying that this extension doesn't block many ads but from personal experience it has blocked all even those annoying double ads on youtube. yeah the app is peng innit.
+p, 
+-------------------------
+most importantly gets rid of annoying ad's on right hand side of yahoo mail.
+p, 
+-------------------------
+one of the best adblocker :)
+p, 
+-------------------------
+i love this and its security features and personally i get paranoid with securtiy and pretty much everything in general so i really wanna know if adguard is a secure and safe extension that wont give me a virus or is infected with viruses in it please reply the answer
+n, security
+-------------------------
+(best adblocker) blocks youtube ads and all annoying ads!! amazing!!!
+p, 
+-------------------------
+this extension is excellent. very very good at blocking adds.
+p, 
+-------------------------
+not super user friendly but does have all the features you would expect.
+n, ui
+-------------------------
+i've used this for over a year now, but i have to delete it briefly so i can safe storage space on my chromebook, but incredible, takes a little while to block ads after a restart, but whatever.
+n, storage
+-------------------------
+i have never seen an app blocking ads like this app !
+it is sooo amazing. and it definitely does the job !
+p, 
+-------------------------
+recommend! great ad blocker, very effective.
+p, 
+-------------------------
+does what it is meant to do
+p, 
+-------------------------
+blocks annoying ads w/o intrusive pop ups
+p, popups
+-------------------------
+this is such a great extension for all search engines, highly recommended!
+p, 
+-------------------------
+great extension but i just have one issue: i use the "user filter" feature. every time i cut/paste from vscode text editor to the ace_text-input textarea box, it adds a space after each line. it saves just fine without spaces, but when i come back later, all the spaces have been added.
+n, ui
+-------------------------
+a must have extension for chrome
+p, 
+-------------------------
+it has reduced the # of ads i am receiving and for that i am grateful.
+p, 
+-------------------------
+works well.  blocks ads.  does not slow down my computer.  recommend to anyone.
+p, slow, block
+-------------------------
+works quite well been using this for a couple years now only i wish that the filters actually updated automatically
+n, update
+-------------------------
+before it was  blocking ads on facebbok good but now they were paid a huge load of money and ads are everywhere
+n, learning, facebook
+-------------------------
+all time best adblocker (adguard adblocker)
+p, 
+-------------------------
+good blocker it does everything and its easy to manage, easy to use and you don't have to worry about a site tracking you scamming you or taking your information behind you back :ddd
+p, 
+-------------------------
+that is good for pop under and it is remove any kind of ads
+p, popups
+-------------------------
+i trust adguard.  one of the few reliable ad blockers out there. a great extension.
+p, 
+-------------------------
+приложение сохранившее мои нервы от бесящей рекламы
+delete
+-------------------------
+ad blocker is awesome, it's the best blocker i have used so far.
+p, 
+-------------------------
+amazing, better then ad block! the memory usage is low too!
+p, memory
+-------------------------
+i haven't had a single notification or message from this extension, and i've had it for about a year now.
+p, 
+-------------------------
+the only ad blocker i've found to block ads on bing, nice one!
+p, block
+-------------------------
+very good extension. blocks all ads and helps me surf websites ad free. cheers!
+p, 
+-------------------------
+that's really good extension for block ads.best.
+p, block
+-------------------------
+at first (year ago) was good, and now it makes many websites stop working, closing popups who is not ads and so on.
+n, popups, learning
+-------------------------
+adblocker stops working after 2 weeks      and does not  block even youtube ads    but this is amazing works like charm
+p, 
+-------------------------
+wish i knew you since high school.
+p, 
+-------------------------
+very cool. best adblocker in the world.
+p, 
+-------------------------
+absolutely the best! no other ad-blocking software or extension comes close to the ease of use and efficiency of using adguard. adguard stops nearly everything in its tracks. browsing the internet is a joy again.
+p, efficient
+-------------------------
+it simply did what it is suppose to do.
+
+for me i've no trouble with it.
+
+side note i do use it with adblock and adblockplus
+
+-norris
+p, 
+-------------------------
+doesn't block ads from youtube using chrome anymore but no problem with firefox.
+in one site i use the most is blocking the videoplayer with firefox and chrome and i have to disable adguard to turn off ads while using firefox in the same website but not with chrome.
+p, compatibility, block
+-------------------------
+great!... been using this application for years!!..best one out there!!
+p, 
+-------------------------
+like it, but i think it is the source of my chromebox crashing every now ant then. but, the ads are much more irritating.
+n, break, crash
+-------------------------
+thank you for the amazing ad blocked i have never found an ad block as useful ever.
+p, 
+-------------------------
+works exactly as intended, with many privacy options.
+p, privacy
+-------------------------
+i really love it. good job!
+p, 
+-------------------------
+it blocks everything!
+using another ad-blocker and waiting for the fix.
+n, block
+-------------------------
+it's youtube man, he probably watching youtube
+p, 
+-------------------------
+awesome ad blocker . viewers if you download this extention then you will be rescued from almost 100% of the ads
+p, 
+-------------------------
+dude you can just click the logo, click block ads on this website. it will say 'click on ad manually' you click on it the it will give you the allowance to block it if it does not detect the ad itself you're a dumb piece of ****
+n, 
+-------------------------
+this was perfect ad blocker but some games say like turn off  the ad blocker if there is away to stop this please help me
+n, break
+-------------------------
+i want to delete it now help me now
+n, delete
+-------------------------
+yes you are correct. that's the only reason i hate this extension. sometime i forgot to disable it completely and it causes serious issues.
+n, disable
+-------------------------
+i've been using this extension for a long time. but nowadays it also blocks youtube video. need help...
+n, blocks, learning
+-------------------------
+uses more ram and cpu than ublock but it's still way better than abp and has a cleaner ui. the extra layer of privacy and malware blocking is a nice touch.
+p, privacy,, malware, cpu
+-------------------------
+cool and this works better than others! <3 thanks so much..
+p, 
+-------------------------
+it works like charm it's the best ad blocker in the market yet
+p,
+-------------------------
+awesome until your web page recognizes it =(
+n, 
+-------------------------
+just opened the chromebook and like the issue of blocking ads.
+p, block
+-------------------------
+i love this app
+
+use in conjunction with adblock plus, ghostery, keyboard privacy and nothing gets through.
+
+go into the advanced filter settings and enable the feature to suppress anti-adblock notifications. some sites detect users using these applications, the setting stops their detection.
+
+*********
+if you like a site, and rely on it for news /sports /information of any kind, support the page and whitelist it :)
+p, whitelist
+-------------------------
+its a great software and one of the best  free software using to stop annoying ads
+p, ads
+-------------------------
+finally an adblocker that actually blocks the more recent, innovative types of ads! i tried several others before this one and all failed to block some very dangerous and/or disgusting stuff. thanks, adguard!
+p, block
+-------------------------
+recent update seems to block gumtree ads from showing
+p, block
+-------------------------
+it blocks everything! including important popups regarding registration forms, downloads, etc., so you need to keep that in mind and just remember to turn it off for those sites. i love it!
+p, popups
+-------------------------
+an extension is not an ad blocker if it pops up its own ads over everything.
+n, popup
+-------------------------
+never surf the web without it.
+p, 
+-------------------------
+honestly adguard adblocker is the best adblocker out here i don't know why or if this is the best one yet just because it doesnt have that many view's and it is not popular as adblockplus,adblock doesnt mean its bad.
+p, 
+-------------------------
+great all the popups are filtered out...!
+thanks adguard..!
+p, popup
+-------------------------
+selecting elements to block option is not functional
+n, block, break
+-------------------------
+--------------------------------------------------
+bitwarden-free-password-m
+0
+-------------------------
+--------------------------------------------------
+no-script-suite-lite
+0
+-------------------------
+--------------------------------------------------
+noscript
+20
+-------------------------
+i've been using this extension for firefox since years, and now i discovered that the sicilian giorgio maone is also here on chrome! rocking! this is an indispensable extension, a must have tool, for your privacy, security, and blocking invasive ads.
+p, privacy, security, block
+-------------------------
+broken. does not work. says "your file was not found. it may have been deleted" when icon is clicked. stops webpages loading, and there is no menu to fix it.
+n, break, stop webpages
+-------------------------
+its a little confusing to use. frankly it would be nice if it could highlight known ad and spam engines so i don't accidentally check them off. 
+
+there is no way to contact them other than to figure out their confusing forum. 
+
+when i click it and i get the trust this or that window, a second window always pops up and i have to close it manually. its a bug, but no way to report it. 
+
+i like having the ability to block things, but without knowing what i'm blocking, what those links are, what might be safe or not, its often hard to use.
+n, popups, confusing
+-------------------------
+yeah having same problem, worked fine up untill a about an hour ago...most webpages wont load so i had to disable the extension in order to use things like youtube or gmail
+n, disable, website break
+-------------------------
+hate the new interface. sure a bunch of icons look pretty, but the old dropdown list was much more functional. i can't even figure out how to use this thing. i mean what's with a clock icon (or two) that has nothing to do with it. the old list type with buttons was much better. think i'll see if i can install that instead.
+n, complex interface
+-------------------------
+broken. does not work. says "your file was not found. it may have been deleted" when icon is clicked. stops webpages loading, and there is no menu to fix it.
+n, break, stop webpage
+-------------------------
+note that this was updated (2021) to version 11x. still the new confusing and eyecandy interface, instead of the better (version 5x and below) text-based interface, but works with the latest browsers with fewer problems than version 10 (originally for firefox 57.) had to come back to it, because another extension for the same purpose had not been updated in 4 years, and would not work properly with the latest browsers (vivaldi 5.0 or chromium based 96 or firefox 89 (i have installed) or firefox 91 stable and above) whereas noscript does.
+n, update, versioning
+-------------------------
+great! but why it is offered by hackademix, not giorgio maone (the developer of noscript security suite on firefox)?
+p, 
+-------------------------
+it's great at blocking scripts and other privacy invasive elements, and does it's job well. that being said, the new window popout every time you click to change what you allow and disallow is incredibly annoying. there's no reason to have a popout like that every time, as most sites don't require that to change extension settings. a simple time delay on the new window popout would rectify this issue entirely.
+p, block, popout
+-------------------------
+i've been using this extension for firefox since years, and now i discovered that the sicilian giorgio maone is also here on chrome! rocking! this is an indispensable extension, a must have tool, for your privacy, security, and blocking invasive ads.
+p, block, 
+-------------------------
+if you were only allowed to add one extension to you browser. noscript would be the smartest choice.      knowledge is half the battle and controlling is the rest. you decide what a web page loads period. 
+to the one that gave us this tool. finally i can have the same kind of protection my "vintage" firefox does.   
+thanx 
+"common sense" is required to understand next sentence: never give them the satisfaction
+p, protect
+-------------------------
+great add-on! if it's recommended by privacytools.io and even implemented into the tor browser, it's good on my book. if you haven't checked them out, they have other solid privacy recommendations.
+p, recommend
+-------------------------
+this. can't even login to some places because some elements are blocked. i had to turn off noscript just to login to make this comment as it wasn't letting me. it's blocking youtube, google, and a heap of other websites as of now for me.
+n, block, break
+-------------------------
+thanks for creating a great extension. i never consius on my life on this part of web that js is killing the web it self, and thanks to this extension, i can reduce the cpu usage of my laptop on the go and also protect my identity only to some people that i trust, even it's not all, still disallow js is a great idea. thanks!
+p, fast, protect
+-------------------------
+i love this extention in firefox. however, it does not work at all on many pages unless i reload the page several times. needs to be refined before i'll use it.
+n, reload
+-------------------------
+quick notice: this extension is hard to use looks very sus. i'd rather not continue using it because it could be selling data.
+n, hard to use, data
+-------------------------
+i have been using noscript on firefox for many years, with great satisfaction. unfortunately, it's not working on my chromium browsers. i have both chrome & slimjet. it might be this current extension version, i'm not sure. i have added the safescript extension, & so far it is working. it's not quite the same as noscript; but decent.  i can't even import my firefox settings, or set anything. the settings page is basically blank, & the little that is on there doesn't work. hopefully an update will fix the issues.
+n, browser compatibility
+-------------------------
+if it works on firefox, then it works hear. thank yooooooooooooooooooou, noscript. i agree with you man
+n, browser comptability
+-------------------------
+outstanding!!
+
+kudos — and heartfelt thanks — to giorgio maone for his work and perseverance.
+p, 
+-------------------------
+i mainly added it to disable cnn's autoplay videos, because they eliminated the option to pause or mute ("yes, winston, we have that privilege"). but even after i green-lighted academia.edu it wouldn't load properly or let me download documents. so i'm removing it.
+n, greenlist, break sites, disable 
+----------------------------------------------------------------------------------------------------

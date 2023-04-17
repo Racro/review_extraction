@@ -1,0 +1,104 @@
+adblock-plus-free-ad-bloc
+1 star: 2060
+2 stars: 900
+3 stars: 1192
+4 stars: 1673
+5 stars: 10884
+Average: 4.102459752229337
+---------------------------------------
+ublock-origin
+1 star: 277
+2 stars: 151
+3 stars: 295
+4 stars: 347
+5 stars: 3704
+Average: 4.476749057394219
+---------------------------------------
+ghostery-–-privacy-ad-blo
+1 star: 195
+2 stars: 104
+3 stars: 104
+4 stars: 191
+5 stars: 1604
+Average: 4.321656050955414
+---------------------------------------
+https-everywhere
+1 star: 101
+2 stars: 66
+3 stars: 93
+4 stars: 138
+5 stars: 450
+Average: 3.9080188679245285
+---------------------------------------
+disconnect
+1 star: 83
+2 stars: 49
+3 stars: 95
+4 stars: 95
+5 stars: 278
+Average: 3.7266666666666666
+---------------------------------------
+privacy-badger
+1 star: 46
+2 stars: 55
+3 stars: 61
+4 stars: 58
+5 stars: 205
+Average: 3.755294117647059
+---------------------------------------
+canvas-fingerprint-defend
+1 star: 3
+2 stars: 8
+3 stars: 4
+4 stars: 7
+5 stars: 28
+Average: 3.98
+---------------------------------------
+user-agent-switcher-for-c
+1 star: 109
+2 stars: 48
+3 stars: 71
+4 stars: 100
+5 stars: 297
+Average: 3.6848
+---------------------------------------
+scriptsafe
+1 star: 86
+2 stars: 77
+3 stars: 70
+4 stars: 76
+5 stars: 191
+Average: 3.418
+---------------------------------------
+decentraleyes
+1 star: 5
+2 stars: 2
+3 stars: 1
+4 stars: 6
+5 stars: 36
+Average: 4.32
+---------------------------------------
+adguard-adblocker
+1 star: 283
+2 stars: 135
+3 stars: 191
+4 stars: 468
+5 stars: 4270
+Average: 4.553581447540677
+---------------------------------------
+bitwarden-free-password-m
+1 star: 45
+2 stars: 26
+3 stars: 56
+4 stars: 85
+5 stars: 1288
+Average: 4.696666666666666
+---------------------------------------
+no-script-suite-lite
+1 star: 10
+2 stars: 11
+3 stars: 6
+4 stars: 2
+5 stars: 21
+Average: 3.26
+---------------------------------------

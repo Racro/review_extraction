@@ -1,0 +1,4 @@
+negative:
+{'block': 4024, 'ads': 911, 'fingerprinting': 9, 'break': 3896, 'tracking': 315, 'manual': 1326, 'filter': 1236, 'update': 552, 'config': 287, 'priv_policy': 11, 'compatibility': 2381, 'data': 274, 'performance': 719}
+positive:
+{'block': 3174, 'ads': 1104, 'fingerprinting': 8, 'break': 1126, 'tracking': 123, 'manual': 510, 'filter': 667, 'update': 212, 'config': 122, 'priv_policy': 3, 'compatibility': 1541, 'data': 168, 'performance': 825}

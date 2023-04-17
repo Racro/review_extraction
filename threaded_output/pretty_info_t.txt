@@ -1,0 +1,78 @@
+adblock-plus-free-ad-bloc
+3.14.2
+August 30, 2022
+2.78MiB
+https://adblockplus.org/privacy
+---------------------------------------
+ublock-origin
+1.44.2
+September 5, 2022
+2.9MiB
+https://github.com/gorhill/uBlock/wiki/Privacy-policy
+---------------------------------------
+ghostery-–-privacy-ad-blo
+8.7.4
+June 9, 2022
+7.67MiB
+[]
+---------------------------------------
+https-everywhere
+2022.5.24
+May 25, 2022
+1.69MiB
+https://www.eff.org/code/privacy/policy
+---------------------------------------
+disconnect
+20.3.1.1
+October 6, 2020
+1017KiB
+https://disconnect.me/privacy
+---------------------------------------
+privacy-badger
+2021.11.23.1
+December 2, 2021
+1.33MiB
+https://www.eff.org/code/privacy/policy
+---------------------------------------
+canvas-fingerprint-defend
+0.1.9
+December 28, 2020
+34.17KiB
+[]
+---------------------------------------
+user-agent-switcher-for-c
+1.1.0
+January 19, 2021
+126KiB
+https://www.google.com/policies
+---------------------------------------
+scriptsafe
+1.0.9.3
+December 12, 2017
+751KiB
+https://www.andryou.com/privacy-policy
+---------------------------------------
+decentraleyes
+2.0.17
+February 1, 2022
+6.57MiB
+https://decentraleyes.org/privacy-policy
+---------------------------------------
+adguard-adblocker
+4.1.22
+August 30, 2022
+10.37MiB
+https://adguard.com/privacy.html
+---------------------------------------
+bitwarden-free-password-m
+2022.8.0
+August 4, 2022
+8.76MiB
+[]
+---------------------------------------
+no-script-suite-lite
+0.3.5
+April 18, 2022
+134KiB
+[]
+---------------------------------------
