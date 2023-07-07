@@ -104,7 +104,7 @@ import pymannkendall as mk
 print(mk.original_test(np.array(sent)))
 # print(mk.original_test(np.array(sent_pos)))
 # print(mk.original_test(np.array(sent_neg)))
-sys.exit(0)
+# sys.exit(0)
 
 print(len(index), len(ts), len(sent), len(sent_pos))
 df = pd.DataFrame({'extn':index, 'x':ts, 'y':sent})
